@@ -1,0 +1,101 @@
+Country,Region,Year,Governance_Score,Finance_Management_Score,HR_Management_Score,Programme_Management_Score,PMER_Score,Logistics_Score,Communications_Score,Volunteer_Management_Score,Emergency_Preparedness_Score,Overall_Capacity_Score,Capacity_Level,Volunteers_Active,Staff_Count,Training_Sessions_Held,Staff_Trained
+Kenya,East Africa,2021,3.2,3.8,3.5,3.8,3.7,4.5,3.8,3.4,3.4,3.7,Moderate,106,91,47,71
+Kenya,East Africa,2022,4.1,3.9,2.9,3.9,3.2,3.1,3.2,2.7,3.5,3.4,Moderate,1668,136,41,121
+Kenya,East Africa,2023,4.3,3.4,4.0,3.9,3.6,4.6,3.9,3.7,4.1,3.9,Moderate,3612,17,31,77
+Kenya,East Africa,2024,2.4,3.9,4.2,3.2,3.4,2.9,3.6,2.6,1.9,3.1,Moderate,376,36,33,122
+Kenya,East Africa,2025,3.4,1.9,3.6,3.2,2.0,2.2,2.2,2.8,2.7,2.7,Developing,3057,17,40,99
+Ethiopia,East Africa,2021,2.0,2.4,1.4,2.0,1.7,2.3,1.9,1.8,1.9,1.9,Foundational,2117,113,23,80
+Ethiopia,East Africa,2022,4.4,5.0,5.0,5.0,4.2,4.2,4.9,4.5,4.5,4.6,Strong,242,143,19,50
+Ethiopia,East Africa,2023,3.2,3.4,3.7,4.5,2.8,3.7,4.6,3.7,3.0,3.6,Moderate,2452,96,28,9
+Ethiopia,East Africa,2024,4.2,3.7,4.0,4.7,3.7,5.0,4.3,3.5,4.5,4.2,Strong,3709,88,21,14
+Ethiopia,East Africa,2025,4.3,4.7,3.8,4.5,3.7,5.0,3.7,3.7,4.4,4.2,Strong,4930,33,24,14
+Uganda,East Africa,2021,3.9,4.6,5.0,5.0,4.0,5.0,4.9,3.9,4.5,4.5,Strong,4402,194,27,68
+Uganda,East Africa,2022,3.9,3.8,2.9,4.6,4.0,3.4,3.9,2.9,4.2,3.7,Moderate,1485,26,36,29
+Uganda,East Africa,2023,3.4,3.0,3.5,3.2,2.6,3.2,2.8,4.0,2.7,3.2,Moderate,1082,191,11,131
+Uganda,East Africa,2024,3.9,4.0,3.9,3.7,3.9,3.9,4.1,4.3,4.0,4.0,Strong,3581,75,24,122
+Uganda,East Africa,2025,2.6,1.7,3.4,2.9,2.9,2.7,3.2,3.2,3.3,2.9,Developing,2049,192,35,150
+Tanzania,East Africa,2021,3.6,3.5,3.5,4.0,3.9,4.3,2.6,3.9,3.8,3.7,Moderate,3805,15,6,88
+Tanzania,East Africa,2022,3.7,3.2,3.3,3.9,3.8,3.7,3.0,3.9,3.5,3.6,Moderate,3103,14,11,30
+Tanzania,East Africa,2023,2.6,2.5,1.9,1.9,2.3,2.7,2.6,1.9,2.7,2.3,Developing,3178,136,48,25
+Tanzania,East Africa,2024,4.3,3.6,3.7,2.6,3.5,3.5,3.9,3.5,2.9,3.5,Moderate,2817,168,49,82
+Tanzania,East Africa,2025,2.4,1.6,1.8,2.4,2.2,2.1,1.8,3.0,1.8,2.1,Developing,3511,107,3,52
+Somalia,East Africa,2021,2.2,3.8,2.5,1.6,3.1,2.7,2.2,2.0,1.6,2.4,Developing,2154,189,43,25
+Somalia,East Africa,2022,2.7,3.0,2.0,3.1,2.7,2.8,2.4,2.2,3.3,2.7,Developing,3600,34,14,71
+Somalia,East Africa,2023,1.7,1.6,2.5,2.0,1.8,1.6,1.5,1.3,2.3,1.8,Foundational,2533,162,34,143
+Somalia,East Africa,2024,2.7,4.3,4.3,4.1,4.0,4.6,4.1,4.7,4.3,4.1,Strong,2046,182,5,100
+Somalia,East Africa,2025,2.8,2.3,2.1,2.4,2.0,1.9,2.8,2.6,2.6,2.4,Developing,4746,126,15,116
+Nigeria,West Africa,2021,4.7,3.6,4.0,4.6,3.7,5.0,4.3,4.3,3.9,4.2,Strong,2301,196,46,52
+Nigeria,West Africa,2022,2.9,3.5,1.6,2.8,3.0,2.7,1.8,2.6,2.7,2.6,Developing,2317,133,44,16
+Nigeria,West Africa,2023,2.6,2.2,2.3,2.2,3.3,1.6,2.9,1.9,2.0,2.3,Developing,3315,51,45,77
+Nigeria,West Africa,2024,3.4,2.1,3.5,3.7,3.3,2.2,3.2,2.7,2.5,3.0,Moderate,2283,6,28,58
+Nigeria,West Africa,2025,4.2,4.2,4.0,4.1,3.5,3.9,3.5,2.8,4.4,3.8,Moderate,203,111,44,38
+Ghana,West Africa,2021,4.1,4.0,4.5,3.7,4.3,4.3,4.3,3.6,4.2,4.1,Strong,2300,73,31,86
+Ghana,West Africa,2022,4.7,3.9,3.4,4.0,4.2,3.7,4.1,3.7,4.2,4.0,Strong,845,61,16,9
+Ghana,West Africa,2023,4.6,3.9,3.8,3.1,3.3,4.0,3.5,4.3,4.0,3.8,Moderate,2709,61,6,78
+Ghana,West Africa,2024,2.3,1.9,2.9,2.4,2.6,3.7,3.1,2.5,2.7,2.7,Developing,3823,155,28,89
+Ghana,West Africa,2025,3.3,3.0,2.8,5.0,3.5,3.0,3.6,3.0,2.9,3.3,Moderate,4485,104,32,147
+Senegal,West Africa,2021,4.2,4.3,3.6,4.7,4.5,4.5,4.7,4.3,4.8,4.4,Strong,152,92,23,86
+Senegal,West Africa,2022,3.3,2.3,2.5,2.6,2.7,2.4,2.7,2.9,1.6,2.6,Developing,2887,118,11,123
+Senegal,West Africa,2023,2.7,2.0,2.5,2.8,2.4,2.4,2.7,2.4,2.8,2.5,Developing,4137,58,36,48
+Senegal,West Africa,2024,4.0,4.1,3.1,4.1,3.5,4.0,3.8,3.6,3.9,3.8,Moderate,3245,70,27,13
+Senegal,West Africa,2025,3.6,3.1,4.4,3.5,3.2,3.5,5.0,3.5,3.6,3.7,Moderate,4730,25,42,129
+Ivory Coast,West Africa,2021,2.4,1.8,2.4,1.9,2.1,2.9,2.1,2.1,2.4,2.2,Developing,4648,93,7,58
+Ivory Coast,West Africa,2022,2.6,2.8,2.0,2.1,3.0,2.5,2.4,3.1,2.3,2.5,Developing,4388,99,21,79
+Ivory Coast,West Africa,2023,3.9,2.4,3.2,2.6,3.1,3.2,3.8,3.2,4.1,3.3,Moderate,2633,120,45,124
+Ivory Coast,West Africa,2024,2.1,2.0,2.3,2.6,1.9,1.8,2.7,3.0,2.4,2.3,Developing,292,44,41,47
+Ivory Coast,West Africa,2025,2.1,3.6,3.3,1.6,1.9,2.7,1.9,2.5,2.4,2.4,Developing,2930,149,29,111
+Mali,West Africa,2021,3.6,3.0,3.8,3.3,3.7,4.1,4.7,4.0,3.8,3.8,Moderate,241,197,20,147
+Mali,West Africa,2022,4.3,4.5,4.1,4.8,3.8,4.6,4.9,3.7,4.3,4.3,Strong,4070,65,26,142
+Mali,West Africa,2023,3.0,2.6,2.7,2.8,2.6,2.9,3.4,2.2,3.0,2.8,Developing,1128,101,40,36
+Mali,West Africa,2024,4.1,4.6,4.5,4.5,3.9,3.8,3.4,4.3,3.3,4.0,Strong,844,106,15,59
+Mali,West Africa,2025,4.5,4.5,4.5,4.6,4.2,3.9,4.8,4.3,4.5,4.4,Strong,956,151,20,50
+DRC,Central Africa,2021,2.9,3.5,2.7,3.0,2.7,3.6,3.0,2.1,4.0,3.1,Moderate,1353,193,27,145
+DRC,Central Africa,2022,3.9,3.8,3.2,3.4,3.0,3.8,3.7,3.1,2.9,3.4,Moderate,3396,95,50,60
+DRC,Central Africa,2023,2.6,2.7,2.8,2.5,2.1,3.1,2.0,2.3,2.6,2.5,Developing,3475,158,19,86
+DRC,Central Africa,2024,4.5,4.7,4.0,4.1,4.6,4.6,4.6,4.1,4.5,4.4,Strong,3025,166,8,86
+DRC,Central Africa,2025,3.3,3.4,3.7,3.0,2.8,2.7,1.7,3.0,4.5,3.1,Moderate,4164,142,36,105
+Cameroon,Central Africa,2021,3.5,3.1,2.5,2.9,1.6,3.2,3.0,2.8,2.8,2.8,Developing,1894,108,33,123
+Cameroon,Central Africa,2022,4.1,4.2,4.1,4.3,3.1,3.9,3.5,4.4,3.7,3.9,Moderate,2395,120,12,50
+Cameroon,Central Africa,2023,2.6,3.1,2.5,3.2,3.1,3.4,3.1,3.0,3.7,3.1,Moderate,3327,78,2,141
+Cameroon,Central Africa,2024,3.1,2.9,3.2,1.7,3.5,2.1,2.7,3.6,1.8,2.7,Developing,2786,200,31,49
+Cameroon,Central Africa,2025,4.4,4.2,5.0,4.5,4.3,4.5,4.6,4.8,4.3,4.5,Strong,855,103,39,112
+Chad,Central Africa,2021,5.0,5.0,5.0,4.7,5.0,4.1,4.3,4.2,4.2,4.6,Strong,3476,110,14,12
+Chad,Central Africa,2022,4.3,4.0,5.0,3.6,5.0,4.8,4.3,4.1,4.1,4.4,Strong,1886,40,41,133
+Chad,Central Africa,2023,1.7,1.5,2.1,1.8,1.6,2.1,1.7,2.6,1.9,1.9,Foundational,709,158,38,109
+Chad,Central Africa,2024,2.6,3.9,3.0,2.4,3.2,2.2,2.3,2.4,3.6,2.8,Developing,237,88,41,68
+Chad,Central Africa,2025,1.7,2.8,2.9,3.6,3.5,2.6,2.9,3.5,2.8,2.9,Developing,1413,150,42,125
+South Africa,Southern Africa,2021,3.4,2.6,3.8,3.6,3.5,3.5,3.0,2.8,3.3,3.3,Moderate,795,99,3,104
+South Africa,Southern Africa,2022,3.8,4.8,3.6,4.0,3.6,3.8,3.6,3.1,3.8,3.8,Moderate,4572,135,14,46
+South Africa,Southern Africa,2023,3.1,3.3,3.7,3.3,3.7,4.3,4.1,5.0,4.3,3.9,Moderate,3800,99,48,66
+South Africa,Southern Africa,2024,3.8,4.5,5.0,3.9,4.7,4.5,4.5,4.8,4.2,4.4,Strong,1485,125,47,56
+South Africa,Southern Africa,2025,2.2,1.4,2.2,2.0,2.7,2.6,2.8,1.5,1.7,2.1,Developing,2693,38,20,21
+Mozambique,Southern Africa,2021,3.0,3.5,3.2,2.6,2.9,2.7,3.7,2.6,2.9,3.0,Moderate,303,57,38,123
+Mozambique,Southern Africa,2022,3.2,3.3,2.9,2.7,3.1,2.6,3.6,2.2,3.0,3.0,Moderate,3811,67,45,118
+Mozambique,Southern Africa,2023,4.3,4.2,3.8,3.1,3.9,3.6,4.1,4.1,4.5,4.0,Strong,2031,50,31,133
+Mozambique,Southern Africa,2024,1.5,2.0,2.4,2.8,2.6,2.6,2.1,2.4,2.1,2.3,Developing,960,159,23,45
+Mozambique,Southern Africa,2025,4.0,4.0,2.7,3.2,4.0,3.7,3.4,3.7,2.9,3.5,Moderate,2055,123,48,22
+Zimbabwe,Southern Africa,2021,3.9,3.9,3.7,3.2,3.1,3.4,2.9,4.4,4.3,3.6,Moderate,106,196,4,109
+Zimbabwe,Southern Africa,2022,2.1,1.7,3.2,3.4,2.1,1.8,2.1,2.4,3.7,2.5,Developing,4307,125,26,23
+Zimbabwe,Southern Africa,2023,3.6,3.6,4.5,4.6,3.8,3.6,5.0,4.2,4.0,4.1,Strong,3466,71,47,142
+Zimbabwe,Southern Africa,2024,3.7,4.3,3.4,3.2,4.1,3.6,3.7,3.4,3.9,3.7,Moderate,1041,188,40,141
+Zimbabwe,Southern Africa,2025,2.6,3.8,3.0,2.8,2.9,4.4,4.0,3.1,2.7,3.3,Moderate,244,117,32,20
+Zambia,Southern Africa,2021,3.8,4.6,3.5,3.2,4.5,4.0,4.4,4.1,4.5,4.1,Strong,2449,106,48,15
+Zambia,Southern Africa,2022,2.1,2.2,2.2,2.1,2.7,2.8,2.3,1.7,2.6,2.3,Developing,3026,107,47,135
+Zambia,Southern Africa,2023,2.6,3.1,2.2,3.9,2.1,2.4,3.3,3.2,3.2,2.9,Developing,3654,114,9,31
+Zambia,Southern Africa,2024,3.8,4.5,3.9,3.9,4.5,3.5,3.1,3.9,4.6,4.0,Strong,1245,72,50,33
+Zambia,Southern Africa,2025,4.5,5.0,3.7,3.8,3.8,5.0,4.2,4.7,2.9,4.2,Strong,1434,98,28,91
+Egypt,North Africa,2021,4.2,3.2,3.7,4.1,4.5,4.8,4.7,3.5,4.5,4.1,Strong,1212,67,32,58
+Egypt,North Africa,2022,1.9,2.2,1.9,2.2,1.8,2.0,3.2,2.2,1.9,2.1,Developing,2216,29,23,23
+Egypt,North Africa,2023,3.8,5.0,4.2,4.2,4.7,4.3,4.4,3.1,4.3,4.2,Strong,3803,186,33,67
+Egypt,North Africa,2024,4.0,3.7,3.4,3.5,3.6,3.8,4.3,3.6,4.1,3.8,Moderate,2179,92,20,118
+Egypt,North Africa,2025,3.2,2.9,2.6,2.7,2.8,3.1,2.0,2.6,3.5,2.8,Developing,2758,120,46,71
+Morocco,North Africa,2021,4.3,3.2,3.3,4.9,3.2,4.4,3.6,3.0,2.9,3.6,Moderate,4704,75,40,14
+Morocco,North Africa,2022,4.4,4.1,3.6,4.4,3.7,4.3,3.4,4.6,5.0,4.2,Strong,1197,42,35,78
+Morocco,North Africa,2023,1.8,2.7,3.1,3.0,2.2,2.0,3.2,2.8,2.3,2.6,Developing,262,61,25,149
+Morocco,North Africa,2024,2.9,2.1,2.0,2.8,1.9,2.3,2.0,1.7,2.9,2.3,Developing,3021,187,20,83
+Morocco,North Africa,2025,2.4,2.7,2.1,1.8,2.5,1.3,1.1,3.5,1.8,2.1,Developing,1346,150,42,83
+Sudan,North Africa,2021,3.6,4.3,3.4,3.9,3.6,4.5,3.5,3.7,4.3,3.9,Moderate,3943,187,30,80
+Sudan,North Africa,2022,3.2,2.8,2.8,3.1,3.7,3.5,3.5,3.1,3.5,3.2,Moderate,1315,195,46,37
+Sudan,North Africa,2023,3.7,4.4,3.9,4.5,4.2,3.5,4.4,3.9,3.6,4.0,Strong,1250,160,20,103
+Sudan,North Africa,2024,3.5,4.3,5.0,4.5,4.0,4.8,5.0,4.6,3.3,4.3,Strong,2157,168,16,12
+Sudan,North Africa,2025,4.8,4.1,5.0,3.5,5.0,4.5,5.0,4.7,4.7,4.6,Strong,1783,154,21,42

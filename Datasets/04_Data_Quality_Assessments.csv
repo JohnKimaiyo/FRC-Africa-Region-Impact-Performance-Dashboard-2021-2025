@@ -1,0 +1,401 @@
+Country,Region,Year,Quarter,Period,DQ_Completeness_Score,DQ_Accuracy_Score,DQ_Timeliness_Score,DQ_Consistency_Score,DQ_Validity_Score,Overall_DQ_Score,DQ_Rating,Reports_Due,Reports_Submitted_Ontime,Reporting_Timeliness_Pct
+Kenya,East Africa,2021,Q1,2021-Q1,52.2,63.5,67.8,69.0,61.0,62.7,Needs Improvement,12,5,41.7
+Kenya,East Africa,2021,Q2,2021-Q2,78.9,71.5,67.0,67.2,54.1,67.7,Needs Improvement,14,7,50.0
+Kenya,East Africa,2021,Q3,2021-Q3,64.9,74.6,77.1,71.7,74.0,72.5,Good,8,4,50.0
+Kenya,East Africa,2021,Q4,2021-Q4,70.7,82.6,88.4,70.3,63.1,75.0,Good,13,5,38.5
+Kenya,East Africa,2022,Q1,2022-Q1,59.6,56.9,53.6,62.7,54.4,57.4,Needs Improvement,8,4,50.0
+Kenya,East Africa,2022,Q2,2022-Q2,47.5,54.5,61.5,61.6,56.4,56.3,Needs Improvement,10,3,30.0
+Kenya,East Africa,2022,Q3,2022-Q3,63.6,58.0,66.7,68.3,66.8,64.7,Needs Improvement,6,4,66.7
+Kenya,East Africa,2022,Q4,2022-Q4,95.5,98.5,100.0,84.9,90.1,93.8,Excellent,5,4,80.0
+Kenya,East Africa,2023,Q1,2023-Q1,82.4,83.9,82.2,96.8,66.9,82.4,Good,5,4,80.0
+Kenya,East Africa,2023,Q2,2023-Q2,63.4,85.9,69.5,77.8,73.4,74.0,Good,11,7,63.6
+Kenya,East Africa,2023,Q3,2023-Q3,77.5,61.2,66.4,67.7,80.1,70.6,Good,18,17,94.4
+Kenya,East Africa,2023,Q4,2023-Q4,61.6,79.8,77.6,72.0,70.4,72.3,Good,9,9,100.0
+Kenya,East Africa,2024,Q1,2024-Q1,68.3,64.9,86.0,68.0,77.7,73.0,Good,19,12,63.2
+Kenya,East Africa,2024,Q2,2024-Q2,93.1,88.7,89.2,79.3,99.1,89.9,Excellent,8,8,100.0
+Kenya,East Africa,2024,Q3,2024-Q3,83.4,96.9,100.0,85.5,92.5,91.7,Excellent,8,6,75.0
+Kenya,East Africa,2024,Q4,2024-Q4,73.5,59.9,79.7,65.2,67.4,69.1,Needs Improvement,18,18,100.0
+Kenya,East Africa,2025,Q1,2025-Q1,52.4,61.6,55.8,63.3,48.7,56.4,Needs Improvement,13,4,30.8
+Kenya,East Africa,2025,Q2,2025-Q2,70.2,77.6,80.6,70.6,70.9,74.0,Good,9,5,55.6
+Kenya,East Africa,2025,Q3,2025-Q3,89.6,80.8,87.6,67.3,85.0,82.1,Good,8,5,62.5
+Kenya,East Africa,2025,Q4,2025-Q4,100.0,79.7,81.8,87.3,81.4,86.0,Excellent,7,4,57.1
+Ethiopia,East Africa,2021,Q1,2021-Q1,90.7,70.0,75.1,94.0,90.2,84.0,Good,7,5,71.4
+Ethiopia,East Africa,2021,Q2,2021-Q2,93.1,88.7,78.7,96.1,95.1,90.3,Excellent,10,8,80.0
+Ethiopia,East Africa,2021,Q3,2021-Q3,81.1,81.7,98.6,90.9,80.9,86.6,Excellent,13,10,76.9
+Ethiopia,East Africa,2021,Q4,2021-Q4,81.2,76.8,79.5,80.1,76.9,78.9,Good,7,5,71.4
+Ethiopia,East Africa,2022,Q1,2022-Q1,78.4,78.6,76.4,74.3,73.0,76.1,Good,6,6,100.0
+Ethiopia,East Africa,2022,Q2,2022-Q2,79.7,75.3,74.7,74.0,93.4,79.4,Good,8,8,100.0
+Ethiopia,East Africa,2022,Q3,2022-Q3,96.6,82.1,82.0,74.9,84.3,84.0,Good,15,6,40.0
+Ethiopia,East Africa,2022,Q4,2022-Q4,90.7,100.0,94.5,94.1,100.0,95.9,Excellent,6,3,50.0
+Ethiopia,East Africa,2023,Q1,2023-Q1,50.6,61.9,73.0,49.0,64.1,59.7,Needs Improvement,12,5,41.7
+Ethiopia,East Africa,2023,Q2,2023-Q2,90.3,78.5,74.3,81.4,74.9,79.9,Good,17,16,94.1
+Ethiopia,East Africa,2023,Q3,2023-Q3,84.5,89.8,72.3,82.7,99.3,85.7,Excellent,12,6,50.0
+Ethiopia,East Africa,2023,Q4,2023-Q4,80.2,85.0,76.3,72.3,85.3,79.8,Good,13,10,76.9
+Ethiopia,East Africa,2024,Q1,2024-Q1,60.0,70.1,62.3,79.2,60.5,66.4,Needs Improvement,9,6,66.7
+Ethiopia,East Africa,2024,Q2,2024-Q2,80.6,74.2,63.6,54.7,65.2,67.7,Needs Improvement,10,10,100.0
+Ethiopia,East Africa,2024,Q3,2024-Q3,88.6,87.5,100.0,98.0,86.0,92.0,Excellent,14,5,35.7
+Ethiopia,East Africa,2024,Q4,2024-Q4,60.5,57.9,70.1,69.8,61.8,64.0,Needs Improvement,11,4,36.4
+Ethiopia,East Africa,2025,Q1,2025-Q1,67.9,86.3,70.3,76.5,82.1,76.6,Good,11,3,27.3
+Ethiopia,East Africa,2025,Q2,2025-Q2,66.6,71.5,95.3,81.4,82.2,79.4,Good,18,5,27.8
+Ethiopia,East Africa,2025,Q3,2025-Q3,78.7,80.1,67.9,67.9,77.3,74.4,Good,20,20,100.0
+Ethiopia,East Africa,2025,Q4,2025-Q4,95.0,93.4,87.4,92.2,82.7,90.1,Excellent,11,5,45.5
+Uganda,East Africa,2021,Q1,2021-Q1,49.7,71.9,58.7,55.7,52.1,57.6,Needs Improvement,6,6,100.0
+Uganda,East Africa,2021,Q2,2021-Q2,78.7,99.3,96.1,92.6,89.8,91.3,Excellent,13,12,92.3
+Uganda,East Africa,2021,Q3,2021-Q3,77.3,70.9,59.3,64.6,45.2,63.5,Needs Improvement,17,13,76.5
+Uganda,East Africa,2021,Q4,2021-Q4,90.6,82.9,85.6,92.7,92.8,88.9,Excellent,12,8,66.7
+Uganda,East Africa,2022,Q1,2022-Q1,53.6,60.7,48.5,72.5,70.0,61.1,Needs Improvement,20,19,95.0
+Uganda,East Africa,2022,Q2,2022-Q2,51.6,58.0,66.3,55.7,57.1,57.7,Needs Improvement,10,7,70.0
+Uganda,East Africa,2022,Q3,2022-Q3,53.7,65.1,55.5,76.3,56.6,61.4,Needs Improvement,12,7,58.3
+Uganda,East Africa,2022,Q4,2022-Q4,89.1,81.7,89.4,100.0,95.1,91.1,Excellent,20,18,90.0
+Uganda,East Africa,2023,Q1,2023-Q1,76.0,50.8,52.3,52.3,70.0,60.3,Needs Improvement,17,12,70.6
+Uganda,East Africa,2023,Q2,2023-Q2,62.3,66.0,42.5,67.3,53.4,58.3,Needs Improvement,16,11,68.8
+Uganda,East Africa,2023,Q3,2023-Q3,78.5,64.4,68.7,65.0,61.3,67.6,Needs Improvement,20,12,60.0
+Uganda,East Africa,2023,Q4,2023-Q4,71.0,74.6,63.5,69.1,74.5,70.5,Good,8,4,50.0
+Uganda,East Africa,2024,Q1,2024-Q1,85.4,84.7,86.6,100.0,81.1,87.6,Excellent,8,5,62.5
+Uganda,East Africa,2024,Q2,2024-Q2,87.2,79.4,89.8,96.6,83.4,87.3,Excellent,18,17,94.4
+Uganda,East Africa,2024,Q3,2024-Q3,75.6,71.0,78.6,64.7,76.0,73.2,Good,15,6,40.0
+Uganda,East Africa,2024,Q4,2024-Q4,81.8,73.6,79.2,59.4,75.9,74.0,Good,18,6,33.3
+Uganda,East Africa,2025,Q1,2025-Q1,64.3,90.4,81.3,92.4,68.6,79.4,Good,10,10,100.0
+Uganda,East Africa,2025,Q2,2025-Q2,65.9,65.2,79.3,84.9,68.2,72.7,Good,15,13,86.7
+Uganda,East Africa,2025,Q3,2025-Q3,78.8,69.3,86.8,69.6,89.4,78.8,Good,8,5,62.5
+Uganda,East Africa,2025,Q4,2025-Q4,75.6,100.0,100.0,84.4,79.3,87.9,Excellent,17,14,82.4
+Tanzania,East Africa,2021,Q1,2021-Q1,84.2,76.1,88.4,70.2,65.7,76.9,Good,9,9,100.0
+Tanzania,East Africa,2021,Q2,2021-Q2,64.4,67.0,64.5,73.5,68.3,67.5,Needs Improvement,20,18,90.0
+Tanzania,East Africa,2021,Q3,2021-Q3,66.0,69.8,68.2,56.5,65.1,65.1,Needs Improvement,18,10,55.6
+Tanzania,East Africa,2021,Q4,2021-Q4,64.8,48.0,59.7,64.6,78.6,63.1,Needs Improvement,5,4,80.0
+Tanzania,East Africa,2022,Q1,2022-Q1,58.9,66.2,68.4,67.2,61.4,64.4,Needs Improvement,13,11,84.6
+Tanzania,East Africa,2022,Q2,2022-Q2,84.1,89.6,70.4,60.4,68.4,74.6,Good,11,9,81.8
+Tanzania,East Africa,2022,Q3,2022-Q3,89.4,98.7,71.1,87.9,100.0,89.4,Excellent,6,5,83.3
+Tanzania,East Africa,2022,Q4,2022-Q4,99.1,97.3,100.0,90.1,85.3,94.4,Excellent,13,13,100.0
+Tanzania,East Africa,2023,Q1,2023-Q1,63.2,64.6,66.4,70.4,51.0,63.1,Needs Improvement,15,9,60.0
+Tanzania,East Africa,2023,Q2,2023-Q2,68.4,71.5,62.8,72.2,61.5,67.3,Needs Improvement,17,15,88.2
+Tanzania,East Africa,2023,Q3,2023-Q3,73.8,81.7,73.6,73.4,77.4,76.0,Good,19,16,84.2
+Tanzania,East Africa,2023,Q4,2023-Q4,90.9,82.6,92.8,95.7,97.9,92.0,Excellent,17,7,41.2
+Tanzania,East Africa,2024,Q1,2024-Q1,81.6,81.9,79.7,74.6,90.3,81.6,Good,6,5,83.3
+Tanzania,East Africa,2024,Q2,2024-Q2,98.6,83.5,99.7,96.5,76.1,90.9,Excellent,20,10,50.0
+Tanzania,East Africa,2024,Q3,2024-Q3,48.0,68.1,67.6,62.5,65.6,62.4,Needs Improvement,15,13,86.7
+Tanzania,East Africa,2024,Q4,2024-Q4,63.8,51.2,76.5,67.5,74.2,66.6,Needs Improvement,6,5,83.3
+Tanzania,East Africa,2025,Q1,2025-Q1,73.0,80.7,78.9,64.1,66.8,72.7,Good,19,16,84.2
+Tanzania,East Africa,2025,Q2,2025-Q2,90.8,72.8,72.2,72.5,78.7,77.4,Good,12,12,100.0
+Tanzania,East Africa,2025,Q3,2025-Q3,76.7,93.0,100.0,91.4,95.1,91.2,Excellent,10,6,60.0
+Tanzania,East Africa,2025,Q4,2025-Q4,87.7,91.2,91.6,69.2,86.4,85.2,Excellent,8,7,87.5
+Somalia,East Africa,2021,Q1,2021-Q1,75.1,87.7,79.0,88.4,79.6,82.0,Good,15,5,33.3
+Somalia,East Africa,2021,Q2,2021-Q2,75.5,69.8,75.5,69.3,70.5,72.1,Good,5,5,100.0
+Somalia,East Africa,2021,Q3,2021-Q3,77.9,83.8,70.5,79.6,97.0,81.8,Good,5,4,80.0
+Somalia,East Africa,2021,Q4,2021-Q4,100.0,100.0,93.7,95.2,82.9,94.4,Excellent,7,5,71.4
+Somalia,East Africa,2022,Q1,2022-Q1,94.8,96.4,89.4,97.5,99.9,95.6,Excellent,16,15,93.8
+Somalia,East Africa,2022,Q2,2022-Q2,70.4,53.1,62.1,41.4,54.8,56.4,Needs Improvement,7,3,42.9
+Somalia,East Africa,2022,Q3,2022-Q3,85.2,86.2,53.6,87.2,85.2,79.5,Good,11,8,72.7
+Somalia,East Africa,2022,Q4,2022-Q4,65.9,75.2,61.3,76.2,65.0,68.7,Needs Improvement,11,5,45.5
+Somalia,East Africa,2023,Q1,2023-Q1,67.1,68.6,55.5,58.9,78.5,65.7,Needs Improvement,17,16,94.1
+Somalia,East Africa,2023,Q2,2023-Q2,81.7,84.7,79.6,80.2,83.2,81.9,Good,12,7,58.3
+Somalia,East Africa,2023,Q3,2023-Q3,64.0,63.6,74.7,65.2,67.6,67.0,Needs Improvement,10,8,80.0
+Somalia,East Africa,2023,Q4,2023-Q4,100.0,100.0,92.1,78.2,89.3,91.9,Excellent,15,9,60.0
+Somalia,East Africa,2024,Q1,2024-Q1,92.3,72.1,100.0,81.6,83.1,85.8,Excellent,11,11,100.0
+Somalia,East Africa,2024,Q2,2024-Q2,81.8,85.9,80.3,79.5,82.0,81.9,Good,12,3,25.0
+Somalia,East Africa,2024,Q3,2024-Q3,80.4,80.3,90.8,73.1,82.6,81.4,Good,6,3,50.0
+Somalia,East Africa,2024,Q4,2024-Q4,56.0,70.2,70.9,56.4,77.5,66.2,Needs Improvement,8,7,87.5
+Somalia,East Africa,2025,Q1,2025-Q1,85.5,92.0,88.6,89.4,68.8,84.9,Good,17,15,88.2
+Somalia,East Africa,2025,Q2,2025-Q2,90.3,89.9,79.5,88.9,88.6,87.4,Excellent,20,4,20.0
+Somalia,East Africa,2025,Q3,2025-Q3,78.0,76.5,66.4,77.1,89.7,77.5,Good,10,7,70.0
+Somalia,East Africa,2025,Q4,2025-Q4,75.0,87.7,78.4,91.5,88.7,84.3,Good,14,3,21.4
+Nigeria,West Africa,2021,Q1,2021-Q1,90.0,93.3,87.8,99.7,77.6,89.7,Excellent,12,6,50.0
+Nigeria,West Africa,2021,Q2,2021-Q2,83.8,91.2,88.6,86.4,87.0,87.4,Excellent,6,5,83.3
+Nigeria,West Africa,2021,Q3,2021-Q3,73.0,71.8,72.1,71.2,71.2,71.9,Good,8,6,75.0
+Nigeria,West Africa,2021,Q4,2021-Q4,77.2,99.1,100.0,97.8,95.2,93.9,Excellent,17,5,29.4
+Nigeria,West Africa,2022,Q1,2022-Q1,96.6,92.5,76.0,92.3,91.0,89.7,Excellent,13,4,30.8
+Nigeria,West Africa,2022,Q2,2022-Q2,99.5,90.4,87.4,92.6,99.2,93.8,Excellent,7,3,42.9
+Nigeria,West Africa,2022,Q3,2022-Q3,83.6,84.5,81.4,81.0,63.5,78.8,Good,18,3,16.7
+Nigeria,West Africa,2022,Q4,2022-Q4,79.0,80.8,71.9,90.9,73.3,79.2,Good,5,5,100.0
+Nigeria,West Africa,2023,Q1,2023-Q1,61.0,52.2,52.8,51.9,54.2,54.4,Poor,9,3,33.3
+Nigeria,West Africa,2023,Q2,2023-Q2,68.5,64.5,71.0,64.9,66.9,67.2,Needs Improvement,17,6,35.3
+Nigeria,West Africa,2023,Q3,2023-Q3,69.2,45.3,62.8,51.4,47.9,55.3,Needs Improvement,14,8,57.1
+Nigeria,West Africa,2023,Q4,2023-Q4,94.9,81.5,69.2,100.0,83.2,85.8,Excellent,18,3,16.7
+Nigeria,West Africa,2024,Q1,2024-Q1,76.5,77.9,59.4,68.6,49.5,66.4,Needs Improvement,14,7,50.0
+Nigeria,West Africa,2024,Q2,2024-Q2,71.8,74.3,81.2,74.4,72.4,74.8,Good,19,9,47.4
+Nigeria,West Africa,2024,Q3,2024-Q3,88.4,100.0,86.0,74.7,98.8,89.6,Excellent,8,5,62.5
+Nigeria,West Africa,2024,Q4,2024-Q4,82.8,83.5,70.6,76.3,74.6,77.6,Good,20,15,75.0
+Nigeria,West Africa,2025,Q1,2025-Q1,74.9,69.6,83.7,66.9,69.4,72.9,Good,14,9,64.3
+Nigeria,West Africa,2025,Q2,2025-Q2,79.6,85.7,78.4,94.6,79.6,83.6,Good,7,4,57.1
+Nigeria,West Africa,2025,Q3,2025-Q3,70.1,71.3,79.0,59.3,62.3,68.4,Needs Improvement,18,11,61.1
+Nigeria,West Africa,2025,Q4,2025-Q4,85.9,95.0,92.4,93.5,91.1,91.6,Excellent,20,12,60.0
+Ghana,West Africa,2021,Q1,2021-Q1,82.2,78.2,69.5,85.2,77.0,78.4,Good,12,9,75.0
+Ghana,West Africa,2021,Q2,2021-Q2,94.7,96.0,84.9,79.9,90.5,89.2,Excellent,5,4,80.0
+Ghana,West Africa,2021,Q3,2021-Q3,78.1,70.7,82.5,69.3,83.3,76.8,Good,17,8,47.1
+Ghana,West Africa,2021,Q4,2021-Q4,36.0,74.1,73.2,71.7,62.4,63.5,Needs Improvement,8,6,75.0
+Ghana,West Africa,2022,Q1,2022-Q1,72.7,88.5,79.7,81.7,92.7,83.1,Good,12,12,100.0
+Ghana,West Africa,2022,Q2,2022-Q2,71.8,74.0,79.9,79.9,80.8,77.3,Good,5,4,80.0
+Ghana,West Africa,2022,Q3,2022-Q3,100.0,91.7,85.5,79.4,87.2,88.8,Excellent,12,10,83.3
+Ghana,West Africa,2022,Q4,2022-Q4,73.1,60.5,75.6,70.6,72.4,70.4,Good,16,10,62.5
+Ghana,West Africa,2023,Q1,2023-Q1,63.8,55.7,54.0,72.0,57.0,60.5,Needs Improvement,8,8,100.0
+Ghana,West Africa,2023,Q2,2023-Q2,48.2,65.3,60.9,70.3,50.7,59.1,Needs Improvement,14,8,57.1
+Ghana,West Africa,2023,Q3,2023-Q3,55.5,65.6,69.3,64.0,53.3,61.5,Needs Improvement,9,9,100.0
+Ghana,West Africa,2023,Q4,2023-Q4,61.5,75.5,85.0,63.1,80.8,73.2,Good,7,3,42.9
+Ghana,West Africa,2024,Q1,2024-Q1,75.8,90.1,59.7,59.1,49.1,66.8,Needs Improvement,10,6,60.0
+Ghana,West Africa,2024,Q2,2024-Q2,54.5,69.3,67.7,63.7,69.3,64.9,Needs Improvement,20,10,50.0
+Ghana,West Africa,2024,Q3,2024-Q3,61.5,65.4,54.8,59.1,56.8,59.5,Needs Improvement,7,4,57.1
+Ghana,West Africa,2024,Q4,2024-Q4,49.6,58.1,49.8,56.4,43.1,51.4,Poor,17,12,70.6
+Ghana,West Africa,2025,Q1,2025-Q1,76.5,73.6,72.3,81.6,66.3,74.1,Good,20,19,95.0
+Ghana,West Africa,2025,Q2,2025-Q2,93.6,89.8,93.4,93.5,94.4,92.9,Excellent,12,3,25.0
+Ghana,West Africa,2025,Q3,2025-Q3,53.4,59.0,59.6,45.0,63.3,56.1,Needs Improvement,20,11,55.0
+Ghana,West Africa,2025,Q4,2025-Q4,69.4,81.8,73.2,65.7,87.7,75.6,Good,18,12,66.7
+Senegal,West Africa,2021,Q1,2021-Q1,66.0,62.7,73.5,92.2,79.5,74.8,Good,15,5,33.3
+Senegal,West Africa,2021,Q2,2021-Q2,52.2,65.8,52.9,63.7,65.6,60.0,Needs Improvement,6,5,83.3
+Senegal,West Africa,2021,Q3,2021-Q3,75.5,79.0,82.9,78.5,79.9,79.2,Good,18,3,16.7
+Senegal,West Africa,2021,Q4,2021-Q4,66.6,72.3,56.6,78.6,55.5,65.9,Needs Improvement,13,6,46.2
+Senegal,West Africa,2022,Q1,2022-Q1,55.5,73.3,75.0,76.4,58.9,67.8,Needs Improvement,20,20,100.0
+Senegal,West Africa,2022,Q2,2022-Q2,63.9,67.5,59.9,77.1,64.1,66.5,Needs Improvement,20,13,65.0
+Senegal,West Africa,2022,Q3,2022-Q3,52.1,51.1,56.8,57.3,64.8,56.4,Needs Improvement,12,8,66.7
+Senegal,West Africa,2022,Q4,2022-Q4,63.2,65.0,74.4,78.0,78.3,71.8,Good,19,18,94.7
+Senegal,West Africa,2023,Q1,2023-Q1,50.7,54.5,61.2,62.5,54.1,56.6,Needs Improvement,7,3,42.9
+Senegal,West Africa,2023,Q2,2023-Q2,75.9,69.5,64.1,67.9,73.5,70.2,Good,18,5,27.8
+Senegal,West Africa,2023,Q3,2023-Q3,93.8,84.9,87.4,81.4,88.7,87.2,Excellent,17,5,29.4
+Senegal,West Africa,2023,Q4,2023-Q4,82.4,82.6,69.9,64.2,80.4,75.9,Good,5,3,60.0
+Senegal,West Africa,2024,Q1,2024-Q1,86.1,66.6,89.2,79.3,81.7,80.6,Good,8,4,50.0
+Senegal,West Africa,2024,Q2,2024-Q2,81.0,90.2,84.7,75.2,91.4,84.5,Good,11,10,90.9
+Senegal,West Africa,2024,Q3,2024-Q3,85.7,63.5,71.9,71.4,75.4,73.6,Good,8,3,37.5
+Senegal,West Africa,2024,Q4,2024-Q4,64.7,79.2,68.6,65.8,70.8,69.8,Needs Improvement,18,18,100.0
+Senegal,West Africa,2025,Q1,2025-Q1,81.7,72.0,90.0,52.9,69.9,73.3,Good,10,10,100.0
+Senegal,West Africa,2025,Q2,2025-Q2,59.6,73.3,60.8,56.7,59.8,62.0,Needs Improvement,9,8,88.9
+Senegal,West Africa,2025,Q3,2025-Q3,73.5,80.1,77.7,86.1,94.6,82.4,Good,18,15,83.3
+Senegal,West Africa,2025,Q4,2025-Q4,53.5,54.3,54.4,66.1,62.1,58.1,Needs Improvement,5,4,80.0
+Ivory Coast,West Africa,2021,Q1,2021-Q1,70.4,63.6,81.2,74.0,70.1,71.9,Good,8,6,75.0
+Ivory Coast,West Africa,2021,Q2,2021-Q2,71.9,75.0,70.6,84.8,81.2,76.7,Good,14,14,100.0
+Ivory Coast,West Africa,2021,Q3,2021-Q3,88.6,93.7,87.4,80.8,90.8,88.3,Excellent,13,11,84.6
+Ivory Coast,West Africa,2021,Q4,2021-Q4,100.0,98.8,98.5,100.0,94.3,98.3,Excellent,15,12,80.0
+Ivory Coast,West Africa,2022,Q1,2022-Q1,72.0,73.1,75.2,61.0,53.2,66.9,Needs Improvement,16,12,75.0
+Ivory Coast,West Africa,2022,Q2,2022-Q2,65.6,63.1,68.5,62.9,71.7,66.4,Needs Improvement,10,5,50.0
+Ivory Coast,West Africa,2022,Q3,2022-Q3,54.8,51.5,63.7,65.1,63.0,59.6,Needs Improvement,14,11,78.6
+Ivory Coast,West Africa,2022,Q4,2022-Q4,59.6,56.3,53.6,54.4,52.8,55.3,Needs Improvement,11,8,72.7
+Ivory Coast,West Africa,2023,Q1,2023-Q1,60.7,67.0,60.9,63.5,58.6,62.1,Needs Improvement,13,10,76.9
+Ivory Coast,West Africa,2023,Q2,2023-Q2,84.4,76.1,100.0,83.9,88.5,86.6,Excellent,19,9,47.4
+Ivory Coast,West Africa,2023,Q3,2023-Q3,82.2,91.6,78.0,91.6,100.0,88.7,Excellent,15,14,93.3
+Ivory Coast,West Africa,2023,Q4,2023-Q4,100.0,93.5,89.1,97.7,97.6,95.6,Excellent,9,4,44.4
+Ivory Coast,West Africa,2024,Q1,2024-Q1,82.0,89.9,88.1,90.0,76.2,85.2,Excellent,20,3,15.0
+Ivory Coast,West Africa,2024,Q2,2024-Q2,80.4,64.4,78.6,79.9,62.8,73.2,Good,15,9,60.0
+Ivory Coast,West Africa,2024,Q3,2024-Q3,95.4,84.8,70.1,88.3,88.0,85.3,Excellent,10,5,50.0
+Ivory Coast,West Africa,2024,Q4,2024-Q4,67.9,56.3,62.8,58.8,32.0,55.6,Needs Improvement,20,5,25.0
+Ivory Coast,West Africa,2025,Q1,2025-Q1,79.2,70.7,68.6,74.0,82.4,75.0,Good,5,4,80.0
+Ivory Coast,West Africa,2025,Q2,2025-Q2,89.4,75.7,74.0,85.8,100.0,85.0,Excellent,11,6,54.5
+Ivory Coast,West Africa,2025,Q3,2025-Q3,85.4,83.6,72.2,74.2,78.4,78.8,Good,8,7,87.5
+Ivory Coast,West Africa,2025,Q4,2025-Q4,53.7,63.6,69.5,50.3,70.0,61.4,Needs Improvement,19,13,68.4
+Mali,West Africa,2021,Q1,2021-Q1,63.1,71.6,80.5,78.2,84.8,75.6,Good,8,3,37.5
+Mali,West Africa,2021,Q2,2021-Q2,60.9,35.2,56.4,59.8,58.4,54.1,Poor,19,8,42.1
+Mali,West Africa,2021,Q3,2021-Q3,73.5,71.2,67.7,64.9,55.8,66.6,Needs Improvement,7,5,71.4
+Mali,West Africa,2021,Q4,2021-Q4,68.6,82.5,85.6,91.1,88.8,83.3,Good,12,8,66.7
+Mali,West Africa,2022,Q1,2022-Q1,66.1,77.8,69.9,69.6,81.5,73.0,Good,5,3,60.0
+Mali,West Africa,2022,Q2,2022-Q2,74.9,71.0,69.4,88.0,64.5,73.6,Good,13,7,53.8
+Mali,West Africa,2022,Q3,2022-Q3,82.3,56.5,71.1,71.7,70.5,70.4,Good,18,12,66.7
+Mali,West Africa,2022,Q4,2022-Q4,80.6,92.1,98.0,82.3,91.8,89.0,Excellent,16,12,75.0
+Mali,West Africa,2023,Q1,2023-Q1,77.8,77.6,83.6,88.8,80.1,81.6,Good,17,17,100.0
+Mali,West Africa,2023,Q2,2023-Q2,48.9,63.7,54.7,51.4,55.2,54.8,Poor,13,11,84.6
+Mali,West Africa,2023,Q3,2023-Q3,81.2,70.2,73.9,67.6,84.3,75.4,Good,11,4,36.4
+Mali,West Africa,2023,Q4,2023-Q4,89.3,100.0,84.1,89.7,81.9,89.0,Excellent,9,3,33.3
+Mali,West Africa,2024,Q1,2024-Q1,67.8,70.2,83.4,94.2,93.9,81.9,Good,11,7,63.6
+Mali,West Africa,2024,Q2,2024-Q2,89.1,87.6,73.3,84.8,87.6,84.5,Good,10,7,70.0
+Mali,West Africa,2024,Q3,2024-Q3,82.2,65.3,76.7,83.2,74.9,76.5,Good,8,4,50.0
+Mali,West Africa,2024,Q4,2024-Q4,75.4,72.0,82.2,83.8,74.3,77.5,Good,17,8,47.1
+Mali,West Africa,2025,Q1,2025-Q1,33.6,72.8,50.3,64.7,49.6,54.2,Poor,13,12,92.3
+Mali,West Africa,2025,Q2,2025-Q2,64.1,52.0,77.5,65.2,66.5,65.1,Needs Improvement,20,9,45.0
+Mali,West Africa,2025,Q3,2025-Q3,84.8,78.1,94.4,78.5,79.6,83.1,Good,10,3,30.0
+Mali,West Africa,2025,Q4,2025-Q4,67.2,61.8,65.9,66.0,65.7,65.3,Needs Improvement,12,6,50.0
+DRC,Central Africa,2021,Q1,2021-Q1,65.9,74.7,64.9,69.9,64.1,67.9,Needs Improvement,7,7,100.0
+DRC,Central Africa,2021,Q2,2021-Q2,100.0,92.9,100.0,88.9,98.8,96.1,Excellent,9,4,44.4
+DRC,Central Africa,2021,Q3,2021-Q3,75.8,72.7,83.4,70.1,90.8,78.6,Good,10,10,100.0
+DRC,Central Africa,2021,Q4,2021-Q4,75.1,77.4,72.5,87.9,79.1,78.4,Good,5,4,80.0
+DRC,Central Africa,2022,Q1,2022-Q1,82.9,82.8,83.4,81.1,85.9,83.2,Good,7,3,42.9
+DRC,Central Africa,2022,Q2,2022-Q2,72.2,79.7,81.0,86.9,75.6,79.1,Good,9,7,77.8
+DRC,Central Africa,2022,Q3,2022-Q3,100.0,92.7,100.0,87.3,90.3,94.1,Excellent,19,16,84.2
+DRC,Central Africa,2022,Q4,2022-Q4,59.2,57.8,56.8,52.4,62.4,57.7,Needs Improvement,20,13,65.0
+DRC,Central Africa,2023,Q1,2023-Q1,86.6,74.0,84.2,84.6,64.7,78.8,Good,14,11,78.6
+DRC,Central Africa,2023,Q2,2023-Q2,89.1,82.7,80.3,91.8,79.4,84.7,Good,8,4,50.0
+DRC,Central Africa,2023,Q3,2023-Q3,74.5,96.8,61.8,84.2,72.2,77.9,Good,17,9,52.9
+DRC,Central Africa,2023,Q4,2023-Q4,63.3,49.1,56.4,63.7,58.1,58.1,Needs Improvement,17,14,82.4
+DRC,Central Africa,2024,Q1,2024-Q1,91.9,74.9,78.6,85.7,72.6,80.7,Good,20,14,70.0
+DRC,Central Africa,2024,Q2,2024-Q2,68.0,65.7,80.7,89.8,77.2,76.3,Good,14,11,78.6
+DRC,Central Africa,2024,Q3,2024-Q3,76.7,72.7,84.1,59.8,69.6,72.6,Good,15,11,73.3
+DRC,Central Africa,2024,Q4,2024-Q4,78.2,62.2,57.9,63.1,66.6,65.6,Needs Improvement,7,7,100.0
+DRC,Central Africa,2025,Q1,2025-Q1,71.2,85.0,95.6,76.4,78.6,81.4,Good,11,5,45.5
+DRC,Central Africa,2025,Q2,2025-Q2,93.4,89.3,98.6,98.7,94.7,94.9,Excellent,13,5,38.5
+DRC,Central Africa,2025,Q3,2025-Q3,33.9,60.6,68.2,56.3,54.0,54.6,Poor,18,17,94.4
+DRC,Central Africa,2025,Q4,2025-Q4,56.3,56.8,53.5,50.5,62.9,56.0,Needs Improvement,20,11,55.0
+Cameroon,Central Africa,2021,Q1,2021-Q1,72.0,87.6,93.9,88.0,64.4,81.2,Good,8,7,87.5
+Cameroon,Central Africa,2021,Q2,2021-Q2,76.4,79.3,82.7,73.7,61.3,74.7,Good,18,14,77.8
+Cameroon,Central Africa,2021,Q3,2021-Q3,42.6,62.9,57.3,49.7,59.6,54.4,Poor,10,3,30.0
+Cameroon,Central Africa,2021,Q4,2021-Q4,54.6,43.3,63.8,73.5,57.6,58.6,Needs Improvement,16,16,100.0
+Cameroon,Central Africa,2022,Q1,2022-Q1,59.9,76.9,57.9,33.7,43.8,54.4,Poor,19,14,73.7
+Cameroon,Central Africa,2022,Q2,2022-Q2,65.4,90.4,77.3,68.2,86.7,77.6,Good,18,9,50.0
+Cameroon,Central Africa,2022,Q3,2022-Q3,76.7,53.8,79.4,70.6,76.5,71.4,Good,11,9,81.8
+Cameroon,Central Africa,2022,Q4,2022-Q4,85.8,84.0,85.5,84.2,78.5,83.6,Good,16,5,31.2
+Cameroon,Central Africa,2023,Q1,2023-Q1,83.3,91.2,100.0,96.9,100.0,94.3,Excellent,5,3,60.0
+Cameroon,Central Africa,2023,Q2,2023-Q2,86.1,91.5,98.7,85.3,82.2,88.8,Excellent,19,14,73.7
+Cameroon,Central Africa,2023,Q3,2023-Q3,72.6,67.9,77.8,68.3,51.6,67.6,Needs Improvement,11,3,27.3
+Cameroon,Central Africa,2023,Q4,2023-Q4,79.3,84.2,63.7,77.6,69.5,74.9,Good,14,8,57.1
+Cameroon,Central Africa,2024,Q1,2024-Q1,66.3,63.3,52.5,80.5,58.8,64.3,Needs Improvement,8,5,62.5
+Cameroon,Central Africa,2024,Q2,2024-Q2,77.5,69.7,75.4,85.3,78.9,77.4,Good,13,11,84.6
+Cameroon,Central Africa,2024,Q3,2024-Q3,88.1,82.4,88.5,83.7,84.8,85.5,Excellent,5,5,100.0
+Cameroon,Central Africa,2024,Q4,2024-Q4,72.6,85.3,72.9,78.0,79.1,77.6,Good,13,3,23.1
+Cameroon,Central Africa,2025,Q1,2025-Q1,68.1,79.0,82.2,64.8,87.9,76.4,Good,13,13,100.0
+Cameroon,Central Africa,2025,Q2,2025-Q2,86.5,100.0,88.0,72.1,91.9,87.7,Excellent,20,15,75.0
+Cameroon,Central Africa,2025,Q3,2025-Q3,67.6,100.0,83.1,99.4,96.5,89.3,Excellent,6,5,83.3
+Cameroon,Central Africa,2025,Q4,2025-Q4,80.6,77.8,88.4,85.9,82.5,83.0,Good,13,13,100.0
+Chad,Central Africa,2021,Q1,2021-Q1,68.1,57.8,59.0,64.9,79.5,65.9,Needs Improvement,6,3,50.0
+Chad,Central Africa,2021,Q2,2021-Q2,92.3,88.5,89.8,78.1,84.7,86.7,Excellent,20,17,85.0
+Chad,Central Africa,2021,Q3,2021-Q3,43.6,59.4,65.5,64.9,50.9,56.9,Needs Improvement,20,8,40.0
+Chad,Central Africa,2021,Q4,2021-Q4,87.7,86.4,89.0,73.0,78.7,83.0,Good,20,20,100.0
+Chad,Central Africa,2022,Q1,2022-Q1,56.3,65.7,67.3,67.5,68.3,65.0,Needs Improvement,8,3,37.5
+Chad,Central Africa,2022,Q2,2022-Q2,39.2,51.4,61.9,63.0,76.6,58.4,Needs Improvement,16,3,18.8
+Chad,Central Africa,2022,Q3,2022-Q3,98.1,100.0,92.9,95.8,87.4,94.8,Excellent,9,8,88.9
+Chad,Central Africa,2022,Q4,2022-Q4,87.5,78.2,84.6,77.8,78.5,81.3,Good,10,5,50.0
+Chad,Central Africa,2023,Q1,2023-Q1,45.6,54.7,65.9,63.4,61.5,58.2,Needs Improvement,7,6,85.7
+Chad,Central Africa,2023,Q2,2023-Q2,71.0,51.8,70.2,50.0,53.9,59.4,Needs Improvement,8,3,37.5
+Chad,Central Africa,2023,Q3,2023-Q3,87.6,95.5,97.9,75.1,88.5,88.9,Excellent,19,4,21.1
+Chad,Central Africa,2023,Q4,2023-Q4,79.5,86.0,72.1,85.1,71.8,78.9,Good,15,4,26.7
+Chad,Central Africa,2024,Q1,2024-Q1,93.5,79.1,82.8,95.9,89.7,88.2,Excellent,13,6,46.2
+Chad,Central Africa,2024,Q2,2024-Q2,88.4,98.9,68.7,81.7,83.8,84.3,Good,5,4,80.0
+Chad,Central Africa,2024,Q3,2024-Q3,87.2,52.8,75.3,78.5,66.5,72.1,Good,15,14,93.3
+Chad,Central Africa,2024,Q4,2024-Q4,97.1,98.3,97.4,95.4,73.6,92.4,Excellent,10,8,80.0
+Chad,Central Africa,2025,Q1,2025-Q1,80.7,68.1,77.6,72.9,82.1,76.3,Good,5,5,100.0
+Chad,Central Africa,2025,Q2,2025-Q2,71.4,90.7,78.4,91.4,84.0,83.2,Good,17,9,52.9
+Chad,Central Africa,2025,Q3,2025-Q3,83.1,84.0,93.2,84.4,95.0,87.9,Excellent,6,3,50.0
+Chad,Central Africa,2025,Q4,2025-Q4,67.2,74.0,65.7,79.2,65.2,70.3,Good,11,11,100.0
+South Africa,Southern Africa,2021,Q1,2021-Q1,65.3,69.3,62.1,65.9,72.0,66.9,Needs Improvement,9,8,88.9
+South Africa,Southern Africa,2021,Q2,2021-Q2,89.9,89.4,88.5,80.0,88.3,87.2,Excellent,13,4,30.8
+South Africa,Southern Africa,2021,Q3,2021-Q3,80.0,75.6,82.4,100.0,87.0,85.0,Excellent,10,10,100.0
+South Africa,Southern Africa,2021,Q4,2021-Q4,59.1,60.6,63.6,61.0,57.7,60.4,Needs Improvement,6,5,83.3
+South Africa,Southern Africa,2022,Q1,2022-Q1,70.8,72.3,69.3,71.6,62.5,69.3,Needs Improvement,11,11,100.0
+South Africa,Southern Africa,2022,Q2,2022-Q2,58.6,77.3,58.2,49.3,72.8,63.2,Needs Improvement,18,8,44.4
+South Africa,Southern Africa,2022,Q3,2022-Q3,62.6,58.7,63.6,56.4,55.5,59.4,Needs Improvement,5,4,80.0
+South Africa,Southern Africa,2022,Q4,2022-Q4,86.1,75.7,91.1,92.6,81.4,85.4,Excellent,13,11,84.6
+South Africa,Southern Africa,2023,Q1,2023-Q1,80.9,82.2,80.0,89.9,84.0,83.4,Good,16,4,25.0
+South Africa,Southern Africa,2023,Q2,2023-Q2,80.2,77.0,100.0,87.2,88.2,86.5,Excellent,15,10,66.7
+South Africa,Southern Africa,2023,Q3,2023-Q3,85.9,100.0,100.0,95.3,77.8,91.8,Excellent,7,7,100.0
+South Africa,Southern Africa,2023,Q4,2023-Q4,75.7,94.6,68.1,71.5,78.5,77.7,Good,19,5,26.3
+South Africa,Southern Africa,2024,Q1,2024-Q1,81.7,78.8,63.6,73.6,84.8,76.5,Good,8,3,37.5
+South Africa,Southern Africa,2024,Q2,2024-Q2,68.2,72.1,87.0,77.4,66.4,74.2,Good,10,4,40.0
+South Africa,Southern Africa,2024,Q3,2024-Q3,46.7,59.4,58.4,52.3,73.4,58.0,Needs Improvement,10,8,80.0
+South Africa,Southern Africa,2024,Q4,2024-Q4,84.8,79.8,97.3,93.6,99.8,91.1,Excellent,5,3,60.0
+South Africa,Southern Africa,2025,Q1,2025-Q1,76.5,72.9,70.8,69.4,78.8,73.7,Good,5,3,60.0
+South Africa,Southern Africa,2025,Q2,2025-Q2,48.7,55.7,76.8,75.5,60.2,63.4,Needs Improvement,16,10,62.5
+South Africa,Southern Africa,2025,Q3,2025-Q3,63.7,84.9,71.2,77.1,88.7,77.1,Good,7,4,57.1
+South Africa,Southern Africa,2025,Q4,2025-Q4,85.1,93.6,97.3,83.4,96.4,91.2,Excellent,14,13,92.9
+Mozambique,Southern Africa,2021,Q1,2021-Q1,81.4,79.9,73.0,91.6,79.6,81.1,Good,11,5,45.5
+Mozambique,Southern Africa,2021,Q2,2021-Q2,56.6,52.2,53.5,52.3,66.7,56.3,Needs Improvement,14,3,21.4
+Mozambique,Southern Africa,2021,Q3,2021-Q3,87.0,76.7,95.8,97.8,92.9,90.0,Excellent,17,14,82.4
+Mozambique,Southern Africa,2021,Q4,2021-Q4,65.5,72.4,64.0,69.3,53.8,65.0,Needs Improvement,14,5,35.7
+Mozambique,Southern Africa,2022,Q1,2022-Q1,63.9,54.5,54.2,70.5,72.4,63.1,Needs Improvement,13,5,38.5
+Mozambique,Southern Africa,2022,Q2,2022-Q2,80.6,100.0,98.2,81.8,86.4,89.4,Excellent,15,9,60.0
+Mozambique,Southern Africa,2022,Q3,2022-Q3,71.6,84.1,70.4,64.8,78.2,73.8,Good,12,6,50.0
+Mozambique,Southern Africa,2022,Q4,2022-Q4,96.0,81.2,93.8,89.2,88.7,89.8,Excellent,13,6,46.2
+Mozambique,Southern Africa,2023,Q1,2023-Q1,96.3,93.2,74.2,95.2,84.6,88.7,Excellent,10,7,70.0
+Mozambique,Southern Africa,2023,Q2,2023-Q2,70.3,58.0,54.3,49.8,58.9,58.3,Needs Improvement,13,10,76.9
+Mozambique,Southern Africa,2023,Q3,2023-Q3,97.1,84.1,97.4,100.0,85.1,92.7,Excellent,13,4,30.8
+Mozambique,Southern Africa,2023,Q4,2023-Q4,51.8,51.1,47.1,53.5,65.4,53.8,Poor,20,14,70.0
+Mozambique,Southern Africa,2024,Q1,2024-Q1,96.7,82.7,87.8,93.0,89.3,89.9,Excellent,16,8,50.0
+Mozambique,Southern Africa,2024,Q2,2024-Q2,80.5,74.0,72.1,65.1,81.4,74.6,Good,19,8,42.1
+Mozambique,Southern Africa,2024,Q3,2024-Q3,82.0,95.6,79.7,80.1,92.2,85.9,Excellent,6,6,100.0
+Mozambique,Southern Africa,2024,Q4,2024-Q4,75.5,52.1,65.9,61.1,74.5,65.8,Needs Improvement,9,7,77.8
+Mozambique,Southern Africa,2025,Q1,2025-Q1,97.5,85.0,82.8,73.0,83.1,84.3,Good,11,9,81.8
+Mozambique,Southern Africa,2025,Q2,2025-Q2,94.3,95.3,100.0,93.5,93.4,95.3,Excellent,16,13,81.2
+Mozambique,Southern Africa,2025,Q3,2025-Q3,77.7,68.5,71.7,58.9,68.4,69.0,Needs Improvement,14,6,42.9
+Mozambique,Southern Africa,2025,Q4,2025-Q4,74.4,82.4,94.9,81.1,78.1,82.2,Good,15,14,93.3
+Zimbabwe,Southern Africa,2021,Q1,2021-Q1,90.8,94.7,83.1,83.2,84.7,87.3,Excellent,13,4,30.8
+Zimbabwe,Southern Africa,2021,Q2,2021-Q2,76.0,93.6,92.9,95.4,88.7,89.3,Excellent,11,7,63.6
+Zimbabwe,Southern Africa,2021,Q3,2021-Q3,71.9,61.6,77.3,69.1,75.8,71.1,Good,11,10,90.9
+Zimbabwe,Southern Africa,2021,Q4,2021-Q4,46.2,68.7,62.7,46.7,52.0,55.3,Needs Improvement,13,3,23.1
+Zimbabwe,Southern Africa,2022,Q1,2022-Q1,72.5,84.0,69.7,68.9,75.3,74.1,Good,8,7,87.5
+Zimbabwe,Southern Africa,2022,Q2,2022-Q2,58.9,60.8,63.1,55.3,74.9,62.6,Needs Improvement,10,10,100.0
+Zimbabwe,Southern Africa,2022,Q3,2022-Q3,68.3,73.4,65.1,67.3,74.6,69.7,Needs Improvement,9,6,66.7
+Zimbabwe,Southern Africa,2022,Q4,2022-Q4,90.9,84.4,69.9,74.0,89.4,81.7,Good,15,8,53.3
+Zimbabwe,Southern Africa,2023,Q1,2023-Q1,96.9,81.3,87.5,83.0,83.4,86.4,Excellent,17,13,76.5
+Zimbabwe,Southern Africa,2023,Q2,2023-Q2,43.7,59.0,65.8,50.4,55.4,54.9,Poor,6,5,83.3
+Zimbabwe,Southern Africa,2023,Q3,2023-Q3,78.5,94.9,82.5,86.1,98.3,88.1,Excellent,8,8,100.0
+Zimbabwe,Southern Africa,2023,Q4,2023-Q4,90.6,99.5,88.0,76.9,85.4,88.1,Excellent,16,16,100.0
+Zimbabwe,Southern Africa,2024,Q1,2024-Q1,85.8,84.8,93.2,94.4,87.5,89.1,Excellent,5,3,60.0
+Zimbabwe,Southern Africa,2024,Q2,2024-Q2,69.4,69.3,83.0,85.1,55.5,72.5,Good,18,18,100.0
+Zimbabwe,Southern Africa,2024,Q3,2024-Q3,74.8,84.8,80.4,88.4,69.7,79.6,Good,15,8,53.3
+Zimbabwe,Southern Africa,2024,Q4,2024-Q4,61.1,58.9,74.3,70.6,75.7,68.1,Needs Improvement,8,4,50.0
+Zimbabwe,Southern Africa,2025,Q1,2025-Q1,90.7,88.8,83.8,90.5,100.0,90.8,Excellent,16,7,43.8
+Zimbabwe,Southern Africa,2025,Q2,2025-Q2,77.6,73.4,90.2,80.8,81.9,80.8,Good,10,10,100.0
+Zimbabwe,Southern Africa,2025,Q3,2025-Q3,78.2,70.8,85.5,76.9,60.5,74.4,Good,10,3,30.0
+Zimbabwe,Southern Africa,2025,Q4,2025-Q4,80.5,84.2,100.0,74.0,88.2,85.4,Excellent,19,17,89.5
+Zambia,Southern Africa,2021,Q1,2021-Q1,79.7,73.3,89.9,96.9,93.0,86.6,Excellent,18,15,83.3
+Zambia,Southern Africa,2021,Q2,2021-Q2,77.1,71.7,76.6,75.0,82.8,76.6,Good,20,10,50.0
+Zambia,Southern Africa,2021,Q3,2021-Q3,76.5,82.4,61.4,80.4,71.0,74.3,Good,13,8,61.5
+Zambia,Southern Africa,2021,Q4,2021-Q4,59.8,52.2,50.6,64.7,47.4,54.9,Poor,15,10,66.7
+Zambia,Southern Africa,2022,Q1,2022-Q1,58.7,65.9,63.9,54.3,64.3,61.4,Needs Improvement,17,7,41.2
+Zambia,Southern Africa,2022,Q2,2022-Q2,83.9,93.5,93.7,83.2,72.8,85.4,Excellent,6,4,66.7
+Zambia,Southern Africa,2022,Q3,2022-Q3,79.2,49.1,67.7,63.3,67.7,65.4,Needs Improvement,8,6,75.0
+Zambia,Southern Africa,2022,Q4,2022-Q4,86.3,81.7,90.2,83.5,88.5,86.0,Excellent,18,11,61.1
+Zambia,Southern Africa,2023,Q1,2023-Q1,62.3,58.0,65.9,73.4,52.9,62.5,Needs Improvement,17,12,70.6
+Zambia,Southern Africa,2023,Q2,2023-Q2,72.4,68.3,78.0,64.8,76.0,71.9,Good,5,3,60.0
+Zambia,Southern Africa,2023,Q3,2023-Q3,74.8,74.1,81.1,73.9,67.8,74.3,Good,10,7,70.0
+Zambia,Southern Africa,2023,Q4,2023-Q4,59.9,43.5,62.1,52.2,33.7,50.3,Poor,11,5,45.5
+Zambia,Southern Africa,2024,Q1,2024-Q1,35.9,53.5,64.9,68.3,53.4,55.2,Needs Improvement,9,8,88.9
+Zambia,Southern Africa,2024,Q2,2024-Q2,60.5,69.1,56.7,53.4,78.8,63.7,Needs Improvement,15,15,100.0
+Zambia,Southern Africa,2024,Q3,2024-Q3,52.6,67.3,63.6,70.4,72.8,65.3,Needs Improvement,6,3,50.0
+Zambia,Southern Africa,2024,Q4,2024-Q4,64.4,59.9,65.9,63.9,47.9,60.4,Needs Improvement,14,5,35.7
+Zambia,Southern Africa,2025,Q1,2025-Q1,69.0,60.9,67.4,73.5,77.7,69.7,Needs Improvement,16,10,62.5
+Zambia,Southern Africa,2025,Q2,2025-Q2,67.9,68.7,61.2,51.1,79.5,65.7,Needs Improvement,17,5,29.4
+Zambia,Southern Africa,2025,Q3,2025-Q3,40.5,67.9,52.9,68.0,51.5,56.2,Needs Improvement,19,3,15.8
+Zambia,Southern Africa,2025,Q4,2025-Q4,62.7,71.8,61.9,70.6,75.5,68.5,Needs Improvement,9,4,44.4
+Egypt,North Africa,2021,Q1,2021-Q1,72.5,71.0,91.3,74.2,87.2,79.2,Good,10,7,70.0
+Egypt,North Africa,2021,Q2,2021-Q2,80.4,84.7,88.1,93.9,79.2,85.3,Excellent,14,4,28.6
+Egypt,North Africa,2021,Q3,2021-Q3,82.5,78.8,85.9,76.0,85.4,81.7,Good,10,6,60.0
+Egypt,North Africa,2021,Q4,2021-Q4,76.4,70.4,79.1,79.0,70.9,75.2,Good,11,9,81.8
+Egypt,North Africa,2022,Q1,2022-Q1,70.0,76.7,71.7,64.9,78.9,72.4,Good,7,4,57.1
+Egypt,North Africa,2022,Q2,2022-Q2,93.8,90.2,100.0,100.0,87.2,94.2,Excellent,9,8,88.9
+Egypt,North Africa,2022,Q3,2022-Q3,57.7,53.5,45.2,66.9,63.0,57.3,Needs Improvement,16,3,18.8
+Egypt,North Africa,2022,Q4,2022-Q4,80.3,72.7,78.2,71.0,59.7,72.4,Good,20,8,40.0
+Egypt,North Africa,2023,Q1,2023-Q1,76.9,82.3,67.8,87.4,81.9,79.3,Good,16,4,25.0
+Egypt,North Africa,2023,Q2,2023-Q2,82.8,76.6,71.0,78.5,80.7,77.9,Good,20,20,100.0
+Egypt,North Africa,2023,Q3,2023-Q3,87.5,84.4,86.1,88.5,88.2,86.9,Excellent,17,14,82.4
+Egypt,North Africa,2023,Q4,2023-Q4,86.7,87.2,85.6,100.0,98.6,91.6,Excellent,11,10,90.9
+Egypt,North Africa,2024,Q1,2024-Q1,75.4,62.8,67.3,72.2,56.7,66.9,Needs Improvement,17,16,94.1
+Egypt,North Africa,2024,Q2,2024-Q2,61.0,63.9,75.4,56.2,53.5,62.0,Needs Improvement,19,10,52.6
+Egypt,North Africa,2024,Q3,2024-Q3,100.0,88.0,88.2,92.1,100.0,93.7,Excellent,8,6,75.0
+Egypt,North Africa,2024,Q4,2024-Q4,53.3,65.1,67.9,59.3,63.9,61.9,Needs Improvement,9,5,55.6
+Egypt,North Africa,2025,Q1,2025-Q1,66.9,51.5,57.3,73.9,81.3,66.2,Needs Improvement,9,6,66.7
+Egypt,North Africa,2025,Q2,2025-Q2,93.5,69.0,77.7,70.8,66.4,75.5,Good,15,7,46.7
+Egypt,North Africa,2025,Q3,2025-Q3,77.2,82.3,95.9,91.2,81.4,85.6,Excellent,18,15,83.3
+Egypt,North Africa,2025,Q4,2025-Q4,77.6,89.0,100.0,98.7,91.8,91.4,Excellent,7,5,71.4
+Morocco,North Africa,2021,Q1,2021-Q1,73.7,64.3,69.7,77.4,73.2,71.7,Good,20,3,15.0
+Morocco,North Africa,2021,Q2,2021-Q2,73.6,70.0,82.3,67.6,78.9,74.5,Good,12,12,100.0
+Morocco,North Africa,2021,Q3,2021-Q3,96.2,97.6,98.4,93.3,66.7,90.4,Excellent,10,6,60.0
+Morocco,North Africa,2021,Q4,2021-Q4,77.7,76.3,56.6,68.7,72.5,70.4,Good,16,8,50.0
+Morocco,North Africa,2022,Q1,2022-Q1,68.8,62.8,76.8,69.7,66.4,68.9,Needs Improvement,15,11,73.3
+Morocco,North Africa,2022,Q2,2022-Q2,97.5,86.6,89.7,88.5,74.9,87.4,Excellent,5,5,100.0
+Morocco,North Africa,2022,Q3,2022-Q3,76.7,94.9,91.1,100.0,93.0,91.1,Excellent,17,17,100.0
+Morocco,North Africa,2022,Q4,2022-Q4,82.0,93.8,100.0,85.5,89.7,90.2,Excellent,7,4,57.1
+Morocco,North Africa,2023,Q1,2023-Q1,68.0,84.2,77.6,82.6,75.7,77.6,Good,9,6,66.7
+Morocco,North Africa,2023,Q2,2023-Q2,52.9,53.7,42.6,62.1,60.8,54.4,Poor,11,3,27.3
+Morocco,North Africa,2023,Q3,2023-Q3,97.2,99.4,90.8,81.9,85.3,90.9,Excellent,11,7,63.6
+Morocco,North Africa,2023,Q4,2023-Q4,95.3,77.5,97.6,97.1,95.5,92.6,Excellent,18,5,27.8
+Morocco,North Africa,2024,Q1,2024-Q1,100.0,84.1,97.1,100.0,94.9,95.2,Excellent,15,9,60.0
+Morocco,North Africa,2024,Q2,2024-Q2,47.9,64.2,67.8,73.0,61.4,62.9,Needs Improvement,10,9,90.0
+Morocco,North Africa,2024,Q3,2024-Q3,65.4,70.2,71.3,88.6,70.6,73.2,Good,9,5,55.6
+Morocco,North Africa,2024,Q4,2024-Q4,48.3,63.7,72.3,51.3,70.7,61.3,Needs Improvement,14,9,64.3
+Morocco,North Africa,2025,Q1,2025-Q1,98.9,80.8,95.7,93.8,85.9,91.0,Excellent,20,4,20.0
+Morocco,North Africa,2025,Q2,2025-Q2,76.6,61.5,60.9,75.0,83.0,71.4,Good,13,9,69.2
+Morocco,North Africa,2025,Q3,2025-Q3,53.5,62.1,57.9,44.5,50.6,53.7,Poor,10,5,50.0
+Morocco,North Africa,2025,Q4,2025-Q4,72.7,77.8,85.2,56.0,90.1,76.4,Good,17,13,76.5
+Sudan,North Africa,2021,Q1,2021-Q1,81.3,97.9,73.4,77.7,100.0,86.1,Excellent,8,6,75.0
+Sudan,North Africa,2021,Q2,2021-Q2,78.7,78.8,72.0,76.0,80.9,77.3,Good,7,5,71.4
+Sudan,North Africa,2021,Q3,2021-Q3,86.0,83.7,100.0,97.8,100.0,93.5,Excellent,8,8,100.0
+Sudan,North Africa,2021,Q4,2021-Q4,56.6,54.7,64.1,60.6,64.3,60.1,Needs Improvement,17,15,88.2
+Sudan,North Africa,2022,Q1,2022-Q1,60.8,64.0,67.7,57.4,60.3,62.0,Needs Improvement,5,3,60.0
+Sudan,North Africa,2022,Q2,2022-Q2,72.7,73.0,77.2,89.4,78.4,78.1,Good,15,5,33.3
+Sudan,North Africa,2022,Q3,2022-Q3,82.7,100.0,92.1,84.4,89.4,89.7,Excellent,17,13,76.5
+Sudan,North Africa,2022,Q4,2022-Q4,76.6,88.5,87.3,67.8,82.1,80.5,Good,19,3,15.8
+Sudan,North Africa,2023,Q1,2023-Q1,84.4,98.9,97.1,90.8,90.9,92.4,Excellent,20,15,75.0
+Sudan,North Africa,2023,Q2,2023-Q2,63.9,66.0,71.1,67.7,63.4,66.4,Needs Improvement,18,4,22.2
+Sudan,North Africa,2023,Q3,2023-Q3,53.5,49.4,64.6,59.7,61.5,57.7,Needs Improvement,14,9,64.3
+Sudan,North Africa,2023,Q4,2023-Q4,86.2,74.4,89.1,76.1,74.1,80.0,Good,13,13,100.0
+Sudan,North Africa,2024,Q1,2024-Q1,96.9,100.0,92.8,96.9,100.0,97.3,Excellent,8,7,87.5
+Sudan,North Africa,2024,Q2,2024-Q2,57.6,61.1,66.4,59.3,65.5,62.0,Needs Improvement,19,19,100.0
+Sudan,North Africa,2024,Q3,2024-Q3,100.0,81.1,87.8,83.7,75.0,85.5,Excellent,16,15,93.8
+Sudan,North Africa,2024,Q4,2024-Q4,98.1,84.2,79.8,83.5,84.4,86.0,Excellent,20,13,65.0
+Sudan,North Africa,2025,Q1,2025-Q1,88.9,94.3,93.4,92.8,100.0,93.9,Excellent,16,4,25.0
+Sudan,North Africa,2025,Q2,2025-Q2,79.1,65.3,73.5,70.4,82.2,74.1,Good,10,9,90.0
+Sudan,North Africa,2025,Q3,2025-Q3,84.9,70.1,85.0,72.4,78.3,78.1,Good,17,16,94.1
+Sudan,North Africa,2025,Q4,2025-Q4,58.6,48.4,71.4,53.0,50.4,56.4,Needs Improvement,7,4,57.1

@@ -1,0 +1,742 @@
+Year,Donor,Region,Sector,Committed_USD,Received_USD,Received_Pct,Spent_USD,Grant_Type,Status
+2021,ECHO,Southern Africa,Livelihoods,150611,134736,89.5,123507,Development,Pipeline
+2021,ECHO,Southern Africa,Disaster Risk Reduction,2233187,2038735,91.3,1663952,Development,Pipeline
+2021,ECHO,Southern Africa,Protection,814751,381953,46.9,363901,Preparedness,Active
+2021,ECHO,Southern Africa,Protection,2562624,1791020,69.9,1322154,Preparedness,Closed
+2021,ECHO,Southern Africa,Migration,1685357,790748,46.9,591300,Preparedness,Active
+2021,ECHO,North Africa,Shelter,2121874,1804831,85.1,1648275,Development,Closed
+2021,ECHO,North Africa,WASH,159695,83407,52.2,79576,Development,Active
+2021,ECHO,North Africa,Food Security,1397332,794770,56.9,745411,Emergency,Active
+2021,ECHO,North Africa,WASH,1267340,878625,69.3,807865,Preparedness,Active
+2021,ECHO,North Africa,Migration,1595275,1003160,62.9,806684,Development,Pipeline
+2021,ECHO,West Africa,Food Security,2298311,2079548,90.5,1477707,Preparedness,Active
+2021,ECHO,Central Africa,Health,2886041,2842294,98.5,2542301,Development,Pipeline
+2021,ECHO,Central Africa,Protection,514565,339350,65.9,301484,Preparedness,Active
+2021,ECHO,Central Africa,WASH,1238642,586676,47.4,501147,Emergency,Closed
+2021,ECHO,East Africa,Food Security,2293406,2272896,99.1,1751450,Emergency,Closed
+2021,ECHO,East Africa,Food Security,866234,721890,83.3,599524,Emergency,Pipeline
+2021,ECHO,East Africa,Shelter,2012879,1593143,79.1,1213124,Emergency,Pipeline
+2021,ECHO,East Africa,Livelihoods,1214692,828758,68.2,823809,Emergency,Pipeline
+2021,ECHO,East Africa,WASH,896977,463891,51.7,413296,Emergency,Pipeline
+2021,USAID,Southern Africa,Food Security,355286,264815,74.5,230261,Emergency,Active
+2021,USAID,Southern Africa,Migration,2556509,1966144,76.9,1672542,Development,Active
+2021,USAID,Southern Africa,Health,2352062,964718,41.0,935804,Development,Pipeline
+2021,USAID,North Africa,Migration,923869,827959,89.6,622832,Emergency,Closed
+2021,USAID,West Africa,Food Security,2096638,1358545,64.8,1265029,Emergency,Pipeline
+2021,USAID,Central Africa,Migration,1001749,989765,98.8,975256,Development,Pipeline
+2021,USAID,Central Africa,Disaster Risk Reduction,140275,131804,94.0,98525,Emergency,Pipeline
+2021,USAID,Central Africa,Food Security,1956574,1856172,94.9,1788484,Preparedness,Pipeline
+2021,USAID,Central Africa,Migration,2677036,1676279,62.6,1371794,Emergency,Closed
+2021,USAID,Central Africa,Livelihoods,1807790,1221967,67.6,1095924,Development,Pipeline
+2021,USAID,East Africa,Migration,1478413,822738,55.7,581581,Preparedness,Closed
+2021,USAID,East Africa,Livelihoods,2806498,1360415,48.5,1131912,Development,Pipeline
+2021,DFID,Southern Africa,Livelihoods,1530854,871364,56.9,809806,Preparedness,Pipeline
+2021,DFID,Southern Africa,Livelihoods,2209996,1025469,46.4,1000078,Preparedness,Closed
+2021,DFID,North Africa,Migration,864119,809849,93.7,787681,Emergency,Closed
+2021,DFID,West Africa,Migration,2073446,1749503,84.4,1280811,Emergency,Active
+2021,DFID,West Africa,Disaster Risk Reduction,374976,248565,66.3,183794,Preparedness,Closed
+2021,DFID,West Africa,Migration,496646,492980,99.3,394340,Development,Pipeline
+2021,DFID,West Africa,Shelter,2981314,2239558,75.1,2091339,Emergency,Active
+2021,DFID,West Africa,Food Security,1072251,1021179,95.2,946290,Development,Pipeline
+2021,DFID,Central Africa,Migration,1442243,1160576,80.5,974645,Emergency,Pipeline
+2021,DFID,Central Africa,Food Security,1358548,1036898,76.3,755120,Preparedness,Pipeline
+2021,DFID,Central Africa,Protection,748429,696303,93.0,601002,Emergency,Active
+2021,DFID,East Africa,Shelter,820486,347952,42.4,339591,Preparedness,Pipeline
+2021,DFID,East Africa,Protection,759062,526471,69.4,505715,Preparedness,Closed
+2021,DFID,East Africa,Disaster Risk Reduction,2840938,2596994,91.4,2453446,Preparedness,Closed
+2021,DFID,East Africa,Livelihoods,1059336,462762,43.7,358233,Development,Closed
+2021,Swedish SIDA,Southern Africa,Livelihoods,708117,655240,92.5,635385,Development,Pipeline
+2021,Swedish SIDA,Southern Africa,Protection,1584504,1069288,67.5,889661,Development,Closed
+2021,Swedish SIDA,Southern Africa,Disaster Risk Reduction,1883828,951492,50.5,942475,Development,Active
+2021,Swedish SIDA,North Africa,Disaster Risk Reduction,331976,175244,52.8,132709,Development,Pipeline
+2021,Swedish SIDA,North Africa,Migration,686910,547080,79.6,422813,Development,Active
+2021,Swedish SIDA,North Africa,Food Security,948143,913311,96.3,642306,Preparedness,Pipeline
+2021,Swedish SIDA,North Africa,Livelihoods,1173445,473428,40.3,403107,Development,Active
+2021,Swedish SIDA,West Africa,Disaster Risk Reduction,1893058,1311581,69.3,982386,Development,Pipeline
+2021,Swedish SIDA,West Africa,Food Security,2448693,1706033,69.7,1404915,Emergency,Pipeline
+2021,Swedish SIDA,West Africa,Migration,2209497,2064107,93.4,1450605,Development,Active
+2021,Swedish SIDA,Central Africa,Shelter,1119793,1103849,98.6,979465,Development,Pipeline
+2021,Swedish SIDA,East Africa,Migration,2586971,1270477,49.1,907156,Emergency,Pipeline
+2021,Swedish SIDA,East Africa,Migration,1736042,1254921,72.3,966875,Emergency,Closed
+2021,Swedish SIDA,East Africa,Disaster Risk Reduction,2644704,1535777,58.1,1187985,Emergency,Active
+2021,Swedish SIDA,East Africa,Protection,335361,264969,79.0,229479,Development,Pipeline
+2021,Norwegian MFA,Southern Africa,Livelihoods,1937626,865701,44.7,742735,Emergency,Closed
+2021,Norwegian MFA,Southern Africa,WASH,663230,580136,87.5,420226,Development,Pipeline
+2021,Norwegian MFA,Southern Africa,Shelter,1835508,1714077,93.4,1497232,Emergency,Pipeline
+2021,Norwegian MFA,North Africa,Food Security,2507900,2433602,97.0,1811676,Preparedness,Active
+2021,Norwegian MFA,North Africa,Food Security,1938200,1930716,99.6,1724674,Development,Pipeline
+2021,Norwegian MFA,North Africa,Livelihoods,2392544,1771670,74.0,1514041,Preparedness,Pipeline
+2021,Norwegian MFA,West Africa,Health,2992266,1239374,41.4,1216931,Emergency,Active
+2021,Norwegian MFA,West Africa,Protection,1416848,1114204,78.6,810570,Development,Pipeline
+2021,Norwegian MFA,West Africa,Shelter,1000990,412979,41.3,295377,Development,Closed
+2021,Norwegian MFA,Central Africa,Protection,2032750,1556349,76.6,1376131,Development,Active
+2021,Norwegian MFA,Central Africa,Livelihoods,2942348,2059056,70.0,1630833,Development,Pipeline
+2021,Norwegian MFA,East Africa,WASH,688334,494943,71.9,423122,Preparedness,Closed
+2021,German BMZ,Southern Africa,Migration,1762236,725423,41.2,569269,Emergency,Pipeline
+2021,German BMZ,Southern Africa,Protection,352859,152403,43.2,147838,Emergency,Pipeline
+2021,German BMZ,Southern Africa,Health,1933778,1614963,83.5,1613081,Preparedness,Closed
+2021,German BMZ,Southern Africa,Migration,2359930,1371833,58.1,1321824,Development,Pipeline
+2021,German BMZ,North Africa,WASH,2760756,2103233,76.2,1758172,Preparedness,Active
+2021,German BMZ,North Africa,WASH,2471068,1318423,53.4,1214950,Preparedness,Active
+2021,German BMZ,North Africa,Shelter,2330373,2196340,94.2,1692483,Preparedness,Active
+2021,German BMZ,West Africa,Food Security,2064808,1043211,50.5,948140,Emergency,Pipeline
+2021,German BMZ,West Africa,Livelihoods,1907521,1881166,98.6,1740053,Development,Closed
+2021,German BMZ,West Africa,Protection,738395,421437,57.1,348101,Emergency,Active
+2021,German BMZ,West Africa,Protection,2817237,1776523,63.1,1697696,Development,Pipeline
+2021,German BMZ,West Africa,Health,1913605,1651101,86.3,1447508,Development,Pipeline
+2021,German BMZ,Central Africa,Disaster Risk Reduction,126650,71554,56.5,70222,Emergency,Active
+2021,German BMZ,Central Africa,Protection,1044682,827376,79.2,820048,Development,Active
+2021,German BMZ,Central Africa,Food Security,1185707,886992,74.8,839411,Preparedness,Pipeline
+2021,German BMZ,East Africa,Migration,2332897,2071293,88.8,1659517,Preparedness,Pipeline
+2021,German BMZ,East Africa,Protection,940251,919953,97.8,650022,Preparedness,Pipeline
+2021,German BMZ,East Africa,Food Security,740070,637367,86.1,630782,Emergency,Active
+2021,Gates Foundation,Southern Africa,WASH,861629,519859,60.3,464979,Emergency,Pipeline
+2021,Gates Foundation,Southern Africa,Health,2624641,1935236,73.7,1796774,Emergency,Pipeline
+2021,Gates Foundation,Southern Africa,WASH,1561797,1436395,92.0,1265339,Development,Closed
+2021,Gates Foundation,North Africa,Food Security,2860552,2544583,89.0,2019599,Emergency,Closed
+2021,Gates Foundation,North Africa,Disaster Risk Reduction,784883,421601,53.7,349592,Development,Active
+2021,Gates Foundation,West Africa,Health,1590423,1282901,80.7,970097,Emergency,Closed
+2021,Gates Foundation,West Africa,Disaster Risk Reduction,616361,498149,80.8,407600,Emergency,Closed
+2021,Gates Foundation,Central Africa,Health,1695582,1487610,87.7,1057766,Development,Closed
+2021,Gates Foundation,Central Africa,Food Security,1774274,1420820,80.1,1271558,Emergency,Closed
+2021,Gates Foundation,East Africa,WASH,622817,600745,96.5,549087,Emergency,Pipeline
+2021,Gates Foundation,East Africa,WASH,2525580,2216906,87.8,2153452,Emergency,Active
+2021,Gates Foundation,East Africa,Migration,604819,486898,80.5,383211,Preparedness,Pipeline
+2021,Gates Foundation,East Africa,Protection,1603198,1477930,92.2,1366012,Development,Active
+2021,Gates Foundation,East Africa,WASH,982177,642994,65.5,587156,Preparedness,Closed
+2021,OCHA,Southern Africa,WASH,1170740,1077798,92.1,1069926,Development,Active
+2021,OCHA,Southern Africa,Disaster Risk Reduction,130432,126703,97.1,101058,Development,Closed
+2021,OCHA,Southern Africa,Protection,519707,339377,65.3,248716,Development,Closed
+2021,OCHA,Southern Africa,Disaster Risk Reduction,373911,205100,54.9,197865,Preparedness,Closed
+2021,OCHA,North Africa,Disaster Risk Reduction,454215,280028,61.7,248151,Development,Active
+2021,OCHA,North Africa,Protection,1252242,1001266,80.0,935732,Emergency,Active
+2021,OCHA,West Africa,Health,843894,430115,51.0,340412,Emergency,Pipeline
+2021,OCHA,West Africa,Shelter,753297,503957,66.9,407929,Preparedness,Closed
+2021,OCHA,Central Africa,Food Security,356613,352955,99.0,335477,Preparedness,Pipeline
+2021,OCHA,East Africa,Disaster Risk Reduction,1659039,1141107,68.8,1099776,Emergency,Closed
+2021,OCHA,East Africa,Shelter,823181,500981,60.9,468792,Preparedness,Active
+2021,OCHA,East Africa,Shelter,2904596,1551650,53.4,1445667,Development,Active
+2021,Japan MOFA,Southern Africa,Migration,225745,152123,67.4,111392,Emergency,Closed
+2021,Japan MOFA,Southern Africa,Protection,1793048,1011202,56.4,829876,Development,Pipeline
+2021,Japan MOFA,North Africa,Health,219446,186435,85.0,134587,Development,Active
+2021,Japan MOFA,North Africa,Health,2073429,1649885,79.6,1509322,Preparedness,Active
+2021,Japan MOFA,North Africa,Health,1809826,1434020,79.2,1331059,Preparedness,Closed
+2021,Japan MOFA,West Africa,Shelter,2302867,1167325,50.7,1022730,Emergency,Active
+2021,Japan MOFA,West Africa,Protection,162656,156912,96.5,138590,Emergency,Active
+2021,Japan MOFA,West Africa,WASH,1861116,1427107,76.7,1314268,Emergency,Closed
+2021,Japan MOFA,West Africa,Disaster Risk Reduction,2047974,1228625,60.0,1118224,Preparedness,Closed
+2021,Japan MOFA,West Africa,Health,663737,630377,95.0,443324,Development,Closed
+2021,Japan MOFA,Central Africa,Shelter,1177355,1085601,92.2,831120,Development,Pipeline
+2021,Japan MOFA,Central Africa,Protection,2364865,1592864,67.4,1522307,Preparedness,Pipeline
+2021,Japan MOFA,Central Africa,Migration,504323,451039,89.4,436416,Development,Pipeline
+2021,Japan MOFA,Central Africa,Food Security,2495952,2406721,96.4,2007560,Emergency,Active
+2021,Japan MOFA,East Africa,Shelter,644452,511577,79.4,418032,Emergency,Pipeline
+2021,Japan MOFA,East Africa,WASH,444725,271473,61.0,225181,Preparedness,Closed
+2021,Japan MOFA,East Africa,WASH,1284051,1086108,84.6,923662,Emergency,Active
+2021,Japan MOFA,East Africa,Shelter,1151389,1022935,88.8,944747,Preparedness,Pipeline
+2021,Japan MOFA,East Africa,Protection,1362939,561922,41.2,499588,Preparedness,Closed
+2021,Canada GAC,Southern Africa,Livelihoods,2280689,1509685,66.2,1263589,Emergency,Closed
+2021,Canada GAC,Southern Africa,Protection,1870084,1666289,89.1,1440144,Preparedness,Active
+2021,Canada GAC,Southern Africa,Health,2530047,2356417,93.1,2153392,Preparedness,Closed
+2021,Canada GAC,Southern Africa,Health,2750297,2012403,73.2,1864212,Emergency,Active
+2021,Canada GAC,Southern Africa,Shelter,160069,67710,42.3,47947,Preparedness,Active
+2021,Canada GAC,North Africa,Disaster Risk Reduction,778995,350555,45.0,291405,Development,Active
+2021,Canada GAC,North Africa,Migration,2499505,1352907,54.1,1346519,Development,Closed
+2021,Canada GAC,West Africa,Disaster Risk Reduction,2737013,1985358,72.5,1784290,Development,Active
+2021,Canada GAC,West Africa,Livelihoods,2000831,1135055,56.7,904116,Preparedness,Closed
+2021,Canada GAC,Central Africa,Protection,1271490,764517,60.1,695421,Development,Active
+2021,Canada GAC,East Africa,Migration,1530186,1046989,68.4,895495,Preparedness,Closed
+2021,Canada GAC,East Africa,WASH,2881864,2176388,75.5,2025442,Preparedness,Closed
+2021,Canada GAC,East Africa,Livelihoods,2277149,1034330,45.4,965094,Emergency,Closed
+2022,ECHO,Southern Africa,Health,2793970,2061785,73.8,1857108,Preparedness,Active
+2022,ECHO,Southern Africa,Food Security,496712,296304,59.7,243803,Development,Active
+2022,ECHO,Southern Africa,Livelihoods,604481,325633,53.9,323611,Emergency,Closed
+2022,ECHO,Southern Africa,Migration,1387778,968949,69.8,967808,Development,Pipeline
+2022,ECHO,North Africa,Shelter,2216964,1538288,69.4,1178214,Development,Pipeline
+2022,ECHO,West Africa,Food Security,694368,489162,70.4,348224,Emergency,Active
+2022,ECHO,West Africa,Shelter,1584517,1493980,94.3,1412655,Preparedness,Pipeline
+2022,ECHO,Central Africa,Protection,297112,248234,83.5,219178,Preparedness,Active
+2022,ECHO,Central Africa,Shelter,2326630,1740087,74.8,1738379,Development,Active
+2022,ECHO,Central Africa,Shelter,520009,294740,56.7,275259,Preparedness,Pipeline
+2022,ECHO,Central Africa,Food Security,2692852,2016522,74.9,2001931,Preparedness,Active
+2022,ECHO,Central Africa,Disaster Risk Reduction,2368370,2123674,89.7,2122734,Emergency,Closed
+2022,ECHO,East Africa,Livelihoods,1781382,1341371,75.3,1021271,Development,Pipeline
+2022,USAID,Southern Africa,Migration,2098778,1473787,70.2,1346059,Development,Active
+2022,USAID,Southern Africa,Health,1358262,1174375,86.5,822242,Emergency,Closed
+2022,USAID,Southern Africa,Livelihoods,2431015,1709043,70.3,1316937,Emergency,Pipeline
+2022,USAID,Southern Africa,WASH,2671600,2471088,92.5,1843114,Emergency,Closed
+2022,USAID,North Africa,Migration,703105,562395,80.0,438566,Emergency,Active
+2022,USAID,North Africa,Shelter,1740972,1068826,61.4,1049767,Preparedness,Closed
+2022,USAID,West Africa,Food Security,2580580,1404529,54.4,1023200,Emergency,Closed
+2022,USAID,West Africa,Food Security,395831,174787,44.2,148811,Development,Active
+2022,USAID,West Africa,WASH,1783763,1400301,78.5,1117704,Preparedness,Pipeline
+2022,USAID,West Africa,Shelter,2557567,2082258,81.4,1495707,Emergency,Closed
+2022,USAID,Central Africa,Livelihoods,2919570,2669657,91.4,2522746,Development,Active
+2022,USAID,Central Africa,WASH,2770750,2746638,99.1,2694318,Preparedness,Closed
+2022,USAID,East Africa,Migration,530386,325507,61.4,266845,Emergency,Pipeline
+2022,USAID,East Africa,Livelihoods,1938245,1642815,84.8,1216052,Emergency,Pipeline
+2022,USAID,East Africa,Migration,2658675,1564387,58.8,1150704,Emergency,Active
+2022,USAID,East Africa,Livelihoods,1531839,1030823,67.3,892281,Emergency,Closed
+2022,USAID,East Africa,WASH,1171444,616995,52.7,436826,Preparedness,Closed
+2022,DFID,Southern Africa,Shelter,2553577,2123589,83.2,1499257,Preparedness,Pipeline
+2022,DFID,Southern Africa,Livelihoods,2143901,2109687,98.4,1617038,Emergency,Pipeline
+2022,DFID,Southern Africa,WASH,532223,424894,79.8,352843,Preparedness,Pipeline
+2022,DFID,Southern Africa,Protection,2612585,1138575,43.6,958288,Emergency,Pipeline
+2022,DFID,North Africa,Disaster Risk Reduction,1913941,1359006,71.0,1299760,Emergency,Pipeline
+2022,DFID,North Africa,Livelihoods,541199,454287,83.9,328809,Preparedness,Pipeline
+2022,DFID,North Africa,Livelihoods,1257064,660584,52.5,524217,Preparedness,Pipeline
+2022,DFID,North Africa,Disaster Risk Reduction,1479211,694999,47.0,581762,Preparedness,Closed
+2022,DFID,West Africa,Health,448518,444295,99.1,379598,Emergency,Pipeline
+2022,DFID,West Africa,Food Security,2136539,1805651,84.5,1633900,Preparedness,Closed
+2022,DFID,West Africa,Disaster Risk Reduction,1028569,935943,91.0,715731,Preparedness,Closed
+2022,DFID,Central Africa,Disaster Risk Reduction,2146241,1829232,85.2,1764123,Preparedness,Pipeline
+2022,DFID,East Africa,WASH,276585,139096,50.3,111839,Preparedness,Pipeline
+2022,DFID,East Africa,WASH,513460,504249,98.2,471087,Emergency,Active
+2022,DFID,East Africa,Disaster Risk Reduction,1612888,918627,57.0,798455,Development,Pipeline
+2022,DFID,East Africa,Protection,267205,171704,64.3,145432,Preparedness,Closed
+2022,Swedish SIDA,Southern Africa,Health,2504782,1535681,61.3,1203665,Development,Pipeline
+2022,Swedish SIDA,Southern Africa,Health,1911089,1538154,80.5,1435963,Emergency,Pipeline
+2022,Swedish SIDA,Southern Africa,Health,858068,793175,92.4,592184,Preparedness,Closed
+2022,Swedish SIDA,Southern Africa,Livelihoods,514414,459738,89.4,356959,Development,Active
+2022,Swedish SIDA,North Africa,Protection,1163315,763602,65.6,741024,Preparedness,Closed
+2022,Swedish SIDA,North Africa,Food Security,1577982,1061511,67.3,805813,Development,Closed
+2022,Swedish SIDA,North Africa,Protection,300484,149016,49.6,125456,Development,Pipeline
+2022,Swedish SIDA,North Africa,Livelihoods,2762574,2369193,85.8,2367206,Emergency,Active
+2022,Swedish SIDA,West Africa,Protection,2395449,2089897,87.2,2012788,Preparedness,Closed
+2022,Swedish SIDA,West Africa,Shelter,1561879,1325565,84.9,1283983,Development,Active
+2022,Swedish SIDA,West Africa,Protection,1499904,668621,44.6,654566,Preparedness,Pipeline
+2022,Swedish SIDA,West Africa,Protection,1054501,672606,63.8,656789,Development,Active
+2022,Swedish SIDA,West Africa,Disaster Risk Reduction,479301,213499,44.5,195261,Development,Pipeline
+2022,Swedish SIDA,Central Africa,Shelter,2782152,2340939,84.1,2338770,Development,Active
+2022,Swedish SIDA,Central Africa,Migration,1210150,1042318,86.1,849251,Development,Closed
+2022,Swedish SIDA,Central Africa,Protection,1936136,1421799,73.4,1151608,Emergency,Active
+2022,Swedish SIDA,Central Africa,Health,1453752,752478,51.8,582832,Emergency,Active
+2022,Swedish SIDA,East Africa,Livelihoods,1402447,747793,53.3,646575,Preparedness,Pipeline
+2022,Swedish SIDA,East Africa,Disaster Risk Reduction,846200,798555,94.4,777648,Preparedness,Pipeline
+2022,Swedish SIDA,East Africa,Food Security,418495,181149,43.3,131146,Emergency,Active
+2022,Swedish SIDA,East Africa,Disaster Risk Reduction,2608065,1426797,54.7,1107933,Development,Active
+2022,Swedish SIDA,East Africa,Protection,1526751,697623,45.7,569636,Development,Active
+2022,Norwegian MFA,Southern Africa,Livelihoods,534639,402388,75.3,351465,Preparedness,Pipeline
+2022,Norwegian MFA,Southern Africa,Protection,444820,322965,72.6,258889,Emergency,Closed
+2022,Norwegian MFA,Southern Africa,Food Security,271013,223280,82.4,211657,Preparedness,Active
+2022,Norwegian MFA,Southern Africa,Livelihoods,2899787,1762387,60.8,1278895,Emergency,Closed
+2022,Norwegian MFA,North Africa,Food Security,1018448,588457,57.8,436170,Emergency,Closed
+2022,Norwegian MFA,North Africa,Food Security,2817468,1917048,68.0,1431614,Emergency,Active
+2022,Norwegian MFA,West Africa,Health,1122068,760433,67.8,582720,Preparedness,Closed
+2022,Norwegian MFA,West Africa,Disaster Risk Reduction,1941089,1636801,84.3,1159298,Preparedness,Pipeline
+2022,Norwegian MFA,West Africa,Food Security,2482724,1819458,73.3,1366134,Development,Active
+2022,Norwegian MFA,Central Africa,Disaster Risk Reduction,2536452,1016090,40.1,976218,Preparedness,Pipeline
+2022,Norwegian MFA,Central Africa,Livelihoods,1723630,1383931,80.3,1009830,Preparedness,Closed
+2022,Norwegian MFA,Central Africa,Disaster Risk Reduction,1205439,962474,79.8,850340,Development,Closed
+2022,Norwegian MFA,Central Africa,Protection,1084427,741763,68.4,612531,Preparedness,Closed
+2022,Norwegian MFA,Central Africa,Shelter,423131,394460,93.2,305132,Development,Pipeline
+2022,Norwegian MFA,East Africa,Shelter,2357690,1506530,63.9,1203318,Emergency,Pipeline
+2022,Norwegian MFA,East Africa,Protection,2095388,1807734,86.3,1762431,Emergency,Pipeline
+2022,German BMZ,Southern Africa,Food Security,1561055,1420355,91.0,1334155,Development,Closed
+2022,German BMZ,Southern Africa,Health,2508617,2488733,99.2,2262615,Development,Pipeline
+2022,German BMZ,North Africa,Disaster Risk Reduction,2185126,1858738,85.1,1849149,Emergency,Active
+2022,German BMZ,North Africa,Migration,192757,77911,40.4,69357,Preparedness,Pipeline
+2022,German BMZ,North Africa,Protection,341364,287900,84.3,280803,Development,Pipeline
+2022,German BMZ,North Africa,WASH,720254,670057,93.0,638288,Preparedness,Closed
+2022,German BMZ,West Africa,Livelihoods,1258006,1217089,96.7,1048173,Preparedness,Active
+2022,German BMZ,Central Africa,Disaster Risk Reduction,2158605,872404,40.4,613576,Preparedness,Active
+2022,German BMZ,Central Africa,Food Security,1761976,1280574,72.7,1063622,Preparedness,Closed
+2022,German BMZ,Central Africa,Livelihoods,1399501,938711,67.1,769857,Development,Active
+2022,German BMZ,Central Africa,Disaster Risk Reduction,2490155,2367229,95.1,1912132,Emergency,Pipeline
+2022,German BMZ,Central Africa,Protection,2957670,2702530,91.4,2623776,Emergency,Pipeline
+2022,German BMZ,East Africa,WASH,1603026,1121638,70.0,935538,Emergency,Pipeline
+2022,Gates Foundation,Southern Africa,Disaster Risk Reduction,2322024,1989074,85.7,1814814,Preparedness,Active
+2022,Gates Foundation,North Africa,Shelter,1143540,682831,59.7,498989,Emergency,Active
+2022,Gates Foundation,North Africa,Migration,2823810,1578259,55.9,1166820,Preparedness,Active
+2022,Gates Foundation,West Africa,WASH,473736,273269,57.7,212753,Development,Pipeline
+2022,Gates Foundation,West Africa,Disaster Risk Reduction,2974579,2327985,78.3,2296205,Development,Closed
+2022,Gates Foundation,West Africa,Shelter,2089809,1695767,81.1,1658451,Development,Active
+2022,Gates Foundation,Central Africa,Protection,1405248,1223239,87.0,1123378,Emergency,Pipeline
+2022,Gates Foundation,East Africa,Migration,1157023,750256,64.8,598283,Emergency,Active
+2022,Gates Foundation,East Africa,Disaster Risk Reduction,1192639,1082637,90.8,1051910,Emergency,Active
+2022,Gates Foundation,East Africa,WASH,1573042,1055714,67.1,741870,Development,Closed
+2022,Gates Foundation,East Africa,Livelihoods,494381,432839,87.6,340004,Emergency,Pipeline
+2022,OCHA,Southern Africa,Health,2436765,989162,40.6,931293,Preparedness,Closed
+2022,OCHA,North Africa,Health,806795,573186,71.0,519056,Preparedness,Active
+2022,OCHA,West Africa,Disaster Risk Reduction,1470948,1395655,94.9,1203546,Development,Active
+2022,OCHA,Central Africa,Protection,2462922,1728765,70.2,1360881,Emergency,Active
+2022,OCHA,Central Africa,Migration,890551,519294,58.3,487598,Emergency,Pipeline
+2022,OCHA,Central Africa,Protection,1015926,680078,66.9,509418,Emergency,Pipeline
+2022,OCHA,Central Africa,Protection,748737,341961,45.7,287888,Preparedness,Active
+2022,OCHA,Central Africa,Shelter,1948419,1322923,67.9,1185389,Preparedness,Active
+2022,OCHA,East Africa,Health,227262,155138,68.3,115274,Preparedness,Active
+2022,OCHA,East Africa,Livelihoods,1407219,991641,70.5,963912,Emergency,Closed
+2022,OCHA,East Africa,Shelter,2964844,1469568,49.6,1332790,Preparedness,Pipeline
+2022,OCHA,East Africa,WASH,802064,606613,75.6,560860,Development,Active
+2022,Japan MOFA,Southern Africa,Protection,751176,368346,49.0,361893,Development,Pipeline
+2022,Japan MOFA,Southern Africa,Disaster Risk Reduction,2398396,1852952,77.3,1767941,Development,Active
+2022,Japan MOFA,Southern Africa,WASH,2904752,1591699,54.8,1467266,Development,Active
+2022,Japan MOFA,Southern Africa,Shelter,1633829,1419173,86.9,1162630,Emergency,Closed
+2022,Japan MOFA,Southern Africa,Disaster Risk Reduction,889955,561002,63.0,503409,Emergency,Closed
+2022,Japan MOFA,North Africa,WASH,2115041,964553,45.6,888051,Preparedness,Active
+2022,Japan MOFA,West Africa,Disaster Risk Reduction,2311813,984212,42.6,745223,Preparedness,Pipeline
+2022,Japan MOFA,West Africa,Livelihoods,942770,752788,79.8,549157,Development,Active
+2022,Japan MOFA,West Africa,Food Security,1978647,1945218,98.3,1868418,Development,Pipeline
+2022,Japan MOFA,Central Africa,Disaster Risk Reduction,1795497,1392913,77.6,1317301,Development,Active
+2022,Japan MOFA,Central Africa,Health,2157160,2011655,93.3,1564751,Development,Active
+2022,Japan MOFA,Central Africa,Migration,1448529,1317649,91.0,999356,Preparedness,Closed
+2022,Japan MOFA,Central Africa,Migration,1383027,896208,64.8,777441,Development,Pipeline
+2022,Japan MOFA,East Africa,Health,2312705,1915693,82.8,1358307,Emergency,Active
+2022,Canada GAC,Southern Africa,Shelter,2564027,1472535,57.4,1299594,Preparedness,Closed
+2022,Canada GAC,Southern Africa,Health,301142,185028,61.4,172540,Emergency,Closed
+2022,Canada GAC,Southern Africa,Food Security,1714393,1356069,79.1,1044608,Development,Pipeline
+2022,Canada GAC,North Africa,Disaster Risk Reduction,2969597,1447848,48.8,1286723,Preparedness,Pipeline
+2022,Canada GAC,West Africa,Protection,847802,568265,67.0,426589,Preparedness,Pipeline
+2022,Canada GAC,West Africa,Food Security,287572,171342,59.6,135517,Emergency,Closed
+2022,Canada GAC,West Africa,Food Security,878904,408584,46.5,353046,Preparedness,Closed
+2022,Canada GAC,West Africa,Food Security,406031,348451,85.8,304072,Development,Active
+2022,Canada GAC,West Africa,Health,2495557,2235457,89.6,1650372,Emergency,Closed
+2022,Canada GAC,Central Africa,WASH,2991509,1978485,66.1,1746655,Development,Active
+2022,Canada GAC,Central Africa,Protection,1108257,892812,80.6,811331,Emergency,Closed
+2022,Canada GAC,East Africa,Disaster Risk Reduction,1659374,1389525,83.7,1244221,Emergency,Active
+2022,Canada GAC,East Africa,Food Security,694204,316929,45.7,287959,Preparedness,Pipeline
+2023,ECHO,Southern Africa,Livelihoods,1873522,1564146,83.5,1561087,Emergency,Pipeline
+2023,ECHO,Southern Africa,Disaster Risk Reduction,1243429,1014659,81.6,919331,Preparedness,Active
+2023,ECHO,Southern Africa,Disaster Risk Reduction,1844358,1307443,70.9,1255638,Development,Closed
+2023,ECHO,North Africa,Livelihoods,2147728,2143649,99.8,2001554,Preparedness,Active
+2023,ECHO,North Africa,Disaster Risk Reduction,2727887,2093653,76.8,1515148,Emergency,Pipeline
+2023,ECHO,West Africa,Food Security,640596,535566,83.6,488740,Emergency,Pipeline
+2023,ECHO,West Africa,WASH,579746,501677,86.5,369920,Emergency,Closed
+2023,ECHO,West Africa,Shelter,378922,300196,79.2,236770,Preparedness,Closed
+2023,ECHO,West Africa,Livelihoods,801986,686630,85.6,530155,Preparedness,Pipeline
+2023,ECHO,Central Africa,Livelihoods,1294566,1049099,81.0,827212,Development,Pipeline
+2023,ECHO,Central Africa,WASH,1196807,485181,40.5,431815,Emergency,Closed
+2023,ECHO,Central Africa,WASH,947778,443523,46.8,398189,Preparedness,Closed
+2023,ECHO,Central Africa,Shelter,942166,900113,95.5,891808,Preparedness,Active
+2023,ECHO,East Africa,WASH,2108315,1141766,54.2,1076429,Emergency,Active
+2023,ECHO,East Africa,Disaster Risk Reduction,259514,158856,61.2,154112,Emergency,Active
+2023,ECHO,East Africa,Food Security,382697,333900,87.2,241135,Development,Pipeline
+2023,ECHO,East Africa,Migration,1655675,1066721,64.4,854652,Preparedness,Active
+2023,USAID,Southern Africa,Health,2604005,2268371,87.1,1867063,Preparedness,Pipeline
+2023,USAID,Southern Africa,Food Security,892595,723674,81.1,637361,Preparedness,Closed
+2023,USAID,Southern Africa,Health,283533,279388,98.5,274174,Emergency,Closed
+2023,USAID,Southern Africa,Shelter,1151940,756386,65.7,693661,Development,Closed
+2023,USAID,North Africa,Health,2801698,2515017,89.8,2438725,Development,Closed
+2023,USAID,North Africa,Livelihoods,742137,327193,44.1,258687,Preparedness,Active
+2023,USAID,West Africa,Food Security,871597,516105,59.2,428540,Development,Pipeline
+2023,USAID,West Africa,Health,1940760,973405,50.2,826286,Development,Active
+2023,USAID,Central Africa,Livelihoods,2623545,2093401,79.8,1777735,Preparedness,Active
+2023,USAID,Central Africa,Protection,701309,560679,79.9,403651,Emergency,Active
+2023,USAID,East Africa,Health,1819346,1683972,92.6,1653191,Preparedness,Pipeline
+2023,DFID,Southern Africa,Protection,1449124,1116904,77.1,1077161,Emergency,Active
+2023,DFID,Southern Africa,Food Security,535337,256355,47.9,240778,Emergency,Closed
+2023,DFID,North Africa,Health,2460183,1159949,47.1,953945,Development,Pipeline
+2023,DFID,West Africa,Health,1041697,619071,59.4,542106,Preparedness,Pipeline
+2023,DFID,Central Africa,Migration,183019,106317,58.1,94749,Preparedness,Pipeline
+2023,DFID,East Africa,Disaster Risk Reduction,1284758,797105,62.0,763816,Development,Pipeline
+2023,DFID,East Africa,Migration,1096856,855909,78.0,654419,Preparedness,Closed
+2023,DFID,East Africa,Migration,1547648,931185,60.2,888561,Development,Active
+2023,DFID,East Africa,Protection,2005150,1267029,63.2,1090582,Emergency,Active
+2023,Swedish SIDA,Southern Africa,Shelter,2772162,2188248,78.9,1760101,Development,Closed
+2023,Swedish SIDA,Southern Africa,Protection,772416,445210,57.6,375124,Preparedness,Active
+2023,Swedish SIDA,Southern Africa,Livelihoods,1910834,1010694,52.9,793661,Emergency,Active
+2023,Swedish SIDA,North Africa,Food Security,1821222,796324,43.7,630044,Development,Active
+2023,Swedish SIDA,North Africa,Protection,2727731,1615969,59.2,1597466,Emergency,Closed
+2023,Swedish SIDA,North Africa,Disaster Risk Reduction,1866391,1406955,75.4,1317212,Development,Pipeline
+2023,Swedish SIDA,North Africa,Migration,1997133,853227,42.7,624529,Development,Closed
+2023,Swedish SIDA,West Africa,Protection,1516841,1348050,88.9,1195807,Preparedness,Closed
+2023,Swedish SIDA,West Africa,Food Security,658323,338765,51.5,278275,Emergency,Active
+2023,Swedish SIDA,West Africa,Food Security,900965,651581,72.3,621010,Preparedness,Pipeline
+2023,Swedish SIDA,Central Africa,Migration,1624272,708584,43.6,622857,Preparedness,Closed
+2023,Swedish SIDA,Central Africa,Livelihoods,1672094,1388208,83.0,1379001,Emergency,Closed
+2023,Swedish SIDA,Central Africa,Migration,692787,612628,88.4,479607,Emergency,Pipeline
+2023,Swedish SIDA,Central Africa,Migration,2835682,2341557,82.6,2175267,Development,Pipeline
+2023,Swedish SIDA,Central Africa,Health,1828547,1532032,83.8,1449368,Emergency,Active
+2023,Swedish SIDA,East Africa,Shelter,2413968,2274532,94.2,1659337,Preparedness,Closed
+2023,Swedish SIDA,East Africa,Disaster Risk Reduction,2270555,1050945,46.3,986753,Emergency,Closed
+2023,Swedish SIDA,East Africa,Food Security,199972,110269,55.1,79125,Development,Pipeline
+2023,Norwegian MFA,Southern Africa,Shelter,1246387,798606,64.1,755452,Preparedness,Closed
+2023,Norwegian MFA,Southern Africa,Food Security,2512014,1195565,47.6,1077865,Emergency,Closed
+2023,Norwegian MFA,North Africa,Food Security,2065365,830626,40.2,608784,Preparedness,Active
+2023,Norwegian MFA,North Africa,Protection,2141304,1307287,61.1,947889,Preparedness,Pipeline
+2023,Norwegian MFA,North Africa,Health,2325447,2110438,90.8,2024377,Preparedness,Active
+2023,Norwegian MFA,West Africa,Health,459661,392248,85.3,303107,Emergency,Active
+2023,Norwegian MFA,Central Africa,Protection,477264,340741,71.4,257347,Development,Active
+2023,Norwegian MFA,Central Africa,Food Security,731674,416152,56.9,355727,Development,Active
+2023,Norwegian MFA,Central Africa,Protection,1622280,1364350,84.1,993788,Preparedness,Closed
+2023,Norwegian MFA,East Africa,Shelter,1520278,878748,57.8,859403,Development,Closed
+2023,Norwegian MFA,East Africa,Shelter,525719,345646,65.7,339307,Emergency,Active
+2023,Norwegian MFA,East Africa,WASH,1841415,1831913,99.5,1571778,Preparedness,Pipeline
+2023,Norwegian MFA,East Africa,Shelter,1818322,1041582,57.3,976205,Preparedness,Pipeline
+2023,German BMZ,Southern Africa,Food Security,1279583,634143,49.6,491850,Emergency,Pipeline
+2023,German BMZ,Southern Africa,Migration,715079,622782,87.1,516967,Emergency,Active
+2023,German BMZ,Southern Africa,Disaster Risk Reduction,668742,348362,52.1,311902,Development,Closed
+2023,German BMZ,Southern Africa,Shelter,2100179,1763430,84.0,1300567,Emergency,Pipeline
+2023,German BMZ,North Africa,Shelter,1949421,1103739,56.6,845886,Development,Active
+2023,German BMZ,North Africa,Protection,2162620,1357936,62.8,1261568,Development,Active
+2023,German BMZ,North Africa,WASH,1651758,1368027,82.8,1229524,Emergency,Active
+2023,German BMZ,West Africa,Disaster Risk Reduction,1358729,548615,40.4,407425,Emergency,Active
+2023,German BMZ,West Africa,Food Security,2905586,1551520,53.4,1212647,Preparedness,Closed
+2023,German BMZ,West Africa,WASH,1326202,646995,48.8,532538,Development,Pipeline
+2023,German BMZ,West Africa,Health,2175131,968168,44.5,895562,Preparedness,Pipeline
+2023,German BMZ,West Africa,Shelter,1852122,1616221,87.3,1409797,Development,Closed
+2023,German BMZ,Central Africa,Livelihoods,2253451,1022667,45.4,988945,Preparedness,Active
+2023,German BMZ,Central Africa,Protection,2153569,2109165,97.9,1604461,Emergency,Active
+2023,German BMZ,East Africa,Livelihoods,1386125,1140481,82.3,1086401,Development,Closed
+2023,German BMZ,East Africa,Health,1515652,1097189,72.4,874456,Development,Pipeline
+2023,Gates Foundation,Southern Africa,WASH,2865768,1969170,68.7,1681042,Development,Pipeline
+2023,Gates Foundation,Southern Africa,Shelter,231591,148306,64.0,145185,Preparedness,Active
+2023,Gates Foundation,Southern Africa,Health,2506073,2120964,84.6,1638212,Development,Closed
+2023,Gates Foundation,Southern Africa,Migration,937360,704270,75.1,638496,Development,Closed
+2023,Gates Foundation,North Africa,Livelihoods,2918169,1412667,48.4,1140768,Preparedness,Closed
+2023,Gates Foundation,West Africa,Disaster Risk Reduction,1638445,1545592,94.3,1344900,Development,Pipeline
+2023,Gates Foundation,West Africa,Shelter,1534991,813850,53.0,599673,Development,Pipeline
+2023,Gates Foundation,West Africa,Food Security,1197179,851117,71.1,735625,Development,Closed
+2023,Gates Foundation,Central Africa,Migration,449411,269938,60.1,240008,Preparedness,Active
+2023,Gates Foundation,Central Africa,Protection,2894340,1277014,44.1,949513,Preparedness,Active
+2023,Gates Foundation,Central Africa,Shelter,196500,143005,72.8,102755,Emergency,Active
+2023,Gates Foundation,East Africa,Protection,842841,782616,92.9,581205,Emergency,Active
+2023,OCHA,Southern Africa,WASH,1093820,879816,80.4,719127,Emergency,Active
+2023,OCHA,Southern Africa,Protection,156401,100076,64.0,93017,Preparedness,Active
+2023,OCHA,Southern Africa,Migration,755333,528489,70.0,484992,Preparedness,Closed
+2023,OCHA,Southern Africa,WASH,2888952,2031264,70.3,1783189,Preparedness,Active
+2023,OCHA,Southern Africa,Shelter,335579,287399,85.6,253541,Emergency,Pipeline
+2023,OCHA,North Africa,WASH,878357,675780,76.9,633048,Preparedness,Active
+2023,OCHA,West Africa,Food Security,1916005,1857475,96.9,1510154,Emergency,Active
+2023,OCHA,Central Africa,Protection,1722780,1285659,74.6,933237,Preparedness,Pipeline
+2023,OCHA,East Africa,Food Security,2096673,1290045,61.5,1062500,Preparedness,Closed
+2023,OCHA,East Africa,Shelter,2639474,2378541,90.1,2031316,Development,Closed
+2023,Japan MOFA,Southern Africa,Migration,356969,299368,83.9,211264,Emergency,Pipeline
+2023,Japan MOFA,Southern Africa,WASH,126480,85841,67.9,83300,Emergency,Active
+2023,Japan MOFA,Southern Africa,Shelter,1204199,643750,53.5,456713,Preparedness,Pipeline
+2023,Japan MOFA,Southern Africa,WASH,894172,590193,66.0,537861,Preparedness,Active
+2023,Japan MOFA,Southern Africa,Shelter,889361,598253,67.3,501332,Development,Active
+2023,Japan MOFA,North Africa,Livelihoods,1755357,1407590,80.2,1092736,Preparedness,Closed
+2023,Japan MOFA,North Africa,Livelihoods,2225062,1893825,85.1,1412669,Emergency,Closed
+2023,Japan MOFA,West Africa,Food Security,1546024,985513,63.7,883810,Preparedness,Active
+2023,Japan MOFA,West Africa,Livelihoods,2846607,2553467,89.7,2393771,Development,Active
+2023,Japan MOFA,West Africa,Health,371175,309192,83.3,249744,Emergency,Closed
+2023,Japan MOFA,Central Africa,Disaster Risk Reduction,353352,167270,47.3,127970,Emergency,Pipeline
+2023,Japan MOFA,Central Africa,Health,1970374,1810577,91.9,1733083,Preparedness,Pipeline
+2023,Japan MOFA,Central Africa,Protection,470070,456408,97.1,329890,Preparedness,Closed
+2023,Japan MOFA,East Africa,WASH,2944558,2126222,72.2,1902129,Preparedness,Closed
+2023,Japan MOFA,East Africa,Migration,1438251,1188562,82.6,1061575,Development,Pipeline
+2023,Japan MOFA,East Africa,Protection,2115148,1823272,86.2,1472914,Development,Closed
+2023,Japan MOFA,East Africa,Protection,2151381,1092169,50.8,831550,Preparedness,Pipeline
+2023,Japan MOFA,East Africa,Food Security,898113,365700,40.7,294423,Preparedness,Active
+2023,Canada GAC,Southern Africa,Protection,2997696,1364090,45.5,1086425,Development,Closed
+2023,Canada GAC,North Africa,Disaster Risk Reduction,1460497,1134698,77.7,1098777,Development,Closed
+2023,Canada GAC,North Africa,Shelter,1996565,1804422,90.4,1399874,Emergency,Pipeline
+2023,Canada GAC,North Africa,Disaster Risk Reduction,1717173,825015,48.0,625297,Emergency,Active
+2023,Canada GAC,North Africa,Disaster Risk Reduction,1428434,1403567,98.3,1213864,Preparedness,Active
+2023,Canada GAC,West Africa,Health,1633899,832473,51.0,792701,Development,Pipeline
+2023,Canada GAC,West Africa,Shelter,824691,525422,63.7,509537,Preparedness,Active
+2023,Canada GAC,West Africa,WASH,1010137,562046,55.6,459735,Emergency,Closed
+2023,Canada GAC,West Africa,Shelter,2080920,1462821,70.3,1415696,Development,Closed
+2023,Canada GAC,Central Africa,Migration,190935,175899,92.1,153438,Development,Active
+2023,Canada GAC,Central Africa,Livelihoods,1373064,731932,53.3,600922,Emergency,Active
+2023,Canada GAC,East Africa,Migration,2645208,2606534,98.5,2299828,Development,Closed
+2023,Canada GAC,East Africa,Migration,770336,669159,86.9,558720,Preparedness,Active
+2023,Canada GAC,East Africa,WASH,1582138,1137880,71.9,942945,Emergency,Closed
+2023,Canada GAC,East Africa,Livelihoods,2099425,1725207,82.2,1648334,Emergency,Active
+2024,ECHO,Southern Africa,Food Security,2172957,1530670,70.4,1292284,Development,Closed
+2024,ECHO,Southern Africa,Livelihoods,154390,93278,60.4,70250,Preparedness,Active
+2024,ECHO,Southern Africa,Livelihoods,1520109,1464698,96.4,1164177,Preparedness,Pipeline
+2024,ECHO,Southern Africa,WASH,1899345,1672211,88.0,1529411,Preparedness,Active
+2024,ECHO,Southern Africa,Livelihoods,2321457,2030231,87.5,1991718,Development,Pipeline
+2024,ECHO,North Africa,Shelter,2987839,2312654,77.4,2241852,Development,Pipeline
+2024,ECHO,North Africa,WASH,2086099,1044339,50.1,927387,Emergency,Closed
+2024,ECHO,North Africa,Disaster Risk Reduction,1651928,1426217,86.3,1114577,Emergency,Active
+2024,ECHO,West Africa,Food Security,2986863,2522263,84.4,2354641,Development,Pipeline
+2024,ECHO,West Africa,Livelihoods,2097275,1884847,89.9,1496314,Preparedness,Closed
+2024,ECHO,West Africa,Protection,2521035,2039426,80.9,1613749,Preparedness,Active
+2024,ECHO,Central Africa,Food Security,1449864,1222850,84.3,1025839,Preparedness,Pipeline
+2024,ECHO,Central Africa,Food Security,2655954,2014611,75.9,1661555,Emergency,Closed
+2024,ECHO,East Africa,Health,2070284,1029323,49.7,775501,Development,Pipeline
+2024,ECHO,East Africa,Disaster Risk Reduction,500902,223673,44.7,198045,Emergency,Pipeline
+2024,ECHO,East Africa,WASH,1449118,1317513,90.9,930495,Preparedness,Closed
+2024,ECHO,East Africa,Livelihoods,2040659,897366,44.0,751311,Emergency,Closed
+2024,ECHO,East Africa,Food Security,1734002,1461126,84.3,1091917,Development,Pipeline
+2024,USAID,Southern Africa,Health,1625814,915318,56.3,704430,Development,Active
+2024,USAID,Southern Africa,Health,1036727,662915,63.9,508787,Development,Closed
+2024,USAID,North Africa,Shelter,2123974,1298935,61.2,1193154,Development,Closed
+2024,USAID,North Africa,Protection,2132969,1635145,76.7,1184425,Preparedness,Pipeline
+2024,USAID,North Africa,Food Security,939105,734988,78.3,619685,Preparedness,Pipeline
+2024,USAID,North Africa,Livelihoods,604836,581089,96.1,457196,Preparedness,Active
+2024,USAID,North Africa,Livelihoods,917650,766879,83.6,704960,Emergency,Closed
+2024,USAID,West Africa,Livelihoods,145776,77684,53.3,75428,Development,Active
+2024,USAID,West Africa,Livelihoods,704229,489234,69.5,442104,Emergency,Active
+2024,USAID,West Africa,Disaster Risk Reduction,2833155,1381200,48.8,1073664,Emergency,Closed
+2024,USAID,West Africa,Shelter,2050097,1540984,75.2,1226174,Development,Pipeline
+2024,USAID,Central Africa,Shelter,2428947,1699815,70.0,1380592,Preparedness,Closed
+2024,USAID,Central Africa,WASH,1417376,1111693,78.4,940652,Development,Closed
+2024,USAID,Central Africa,Food Security,1257415,506443,40.3,453218,Preparedness,Pipeline
+2024,USAID,Central Africa,Livelihoods,2001418,1307472,65.3,1049258,Emergency,Pipeline
+2024,USAID,East Africa,Health,1453936,663704,45.6,508471,Emergency,Active
+2024,USAID,East Africa,Migration,1469599,785152,53.4,769929,Development,Active
+2024,DFID,Southern Africa,Health,1672985,1103346,66.0,786266,Preparedness,Closed
+2024,DFID,Southern Africa,Protection,2810897,1358478,48.3,983144,Development,Active
+2024,DFID,Southern Africa,Health,1469903,1107309,75.3,837111,Preparedness,Closed
+2024,DFID,North Africa,Health,2472369,1728518,69.9,1401860,Preparedness,Active
+2024,DFID,North Africa,Migration,653089,576237,88.2,458769,Emergency,Active
+2024,DFID,North Africa,Shelter,686831,463582,67.5,424820,Emergency,Pipeline
+2024,DFID,West Africa,WASH,1085718,716585,66.0,672131,Development,Closed
+2024,DFID,West Africa,WASH,1518337,1210130,79.7,996129,Development,Closed
+2024,DFID,Central Africa,Disaster Risk Reduction,2165508,1521029,70.2,1506063,Preparedness,Active
+2024,DFID,East Africa,Disaster Risk Reduction,1846310,1471447,79.7,1429509,Preparedness,Active
+2024,DFID,East Africa,WASH,2398887,1216847,50.7,1028200,Emergency,Closed
+2024,DFID,East Africa,WASH,767147,725105,94.5,577751,Development,Active
+2024,DFID,East Africa,Health,1103551,1082140,98.1,789013,Preparedness,Pipeline
+2024,DFID,East Africa,Health,2439098,2296661,94.2,1914413,Emergency,Pipeline
+2024,Swedish SIDA,Southern Africa,Health,2107784,936375,44.4,902531,Emergency,Active
+2024,Swedish SIDA,Southern Africa,Shelter,1075870,592980,55.1,419044,Emergency,Pipeline
+2024,Swedish SIDA,North Africa,Disaster Risk Reduction,1454551,700343,48.1,628722,Preparedness,Pipeline
+2024,Swedish SIDA,North Africa,Health,1760142,1736709,98.7,1273769,Preparedness,Closed
+2024,Swedish SIDA,North Africa,Health,2164550,1465765,67.7,1105467,Preparedness,Pipeline
+2024,Swedish SIDA,West Africa,WASH,2406997,2038779,84.7,1499354,Emergency,Active
+2024,Swedish SIDA,West Africa,Health,2573249,1399603,54.4,1062189,Emergency,Active
+2024,Swedish SIDA,West Africa,Migration,2544185,1861101,73.2,1790296,Emergency,Closed
+2024,Swedish SIDA,West Africa,Protection,438175,309638,70.7,222157,Preparedness,Active
+2024,Swedish SIDA,Central Africa,Shelter,992457,732466,73.8,687973,Preparedness,Active
+2024,Swedish SIDA,Central Africa,Livelihoods,2732679,1309755,47.9,945399,Development,Pipeline
+2024,Swedish SIDA,Central Africa,Disaster Risk Reduction,1669930,856147,51.3,790931,Emergency,Active
+2024,Swedish SIDA,Central Africa,Livelihoods,2648536,1999666,75.5,1724069,Development,Active
+2024,Swedish SIDA,East Africa,Disaster Risk Reduction,1191952,655201,55.0,523945,Emergency,Pipeline
+2024,Swedish SIDA,East Africa,Migration,1296977,1270429,98.0,981009,Emergency,Closed
+2024,Swedish SIDA,East Africa,Disaster Risk Reduction,2630708,2475462,94.1,2163949,Emergency,Active
+2024,Norwegian MFA,Southern Africa,Disaster Risk Reduction,274735,130218,47.4,109408,Emergency,Pipeline
+2024,Norwegian MFA,North Africa,Livelihoods,939459,910457,96.9,751645,Preparedness,Pipeline
+2024,Norwegian MFA,North Africa,Livelihoods,999017,917129,91.8,712544,Development,Closed
+2024,Norwegian MFA,West Africa,Food Security,2817196,2091918,74.3,1993923,Preparedness,Closed
+2024,Norwegian MFA,Central Africa,Health,2243706,2136934,95.2,1807306,Development,Active
+2024,Norwegian MFA,Central Africa,Shelter,1007746,789884,78.4,553625,Development,Active
+2024,Norwegian MFA,East Africa,Protection,1729787,954728,55.2,748138,Development,Closed
+2024,Norwegian MFA,East Africa,Shelter,2624186,1196880,45.6,938244,Development,Closed
+2024,Norwegian MFA,East Africa,Livelihoods,2452290,1453406,59.3,1439787,Preparedness,Active
+2024,Norwegian MFA,East Africa,WASH,425788,341124,80.1,282383,Emergency,Active
+2024,German BMZ,Southern Africa,Health,309832,307611,99.3,229468,Development,Active
+2024,German BMZ,Southern Africa,Migration,1372747,941197,68.6,841542,Development,Pipeline
+2024,German BMZ,Southern Africa,Shelter,2482829,1075929,43.3,984583,Emergency,Active
+2024,German BMZ,Southern Africa,Food Security,1643712,755976,46.0,560998,Preparedness,Active
+2024,German BMZ,Southern Africa,Protection,1874885,929593,49.6,909762,Emergency,Closed
+2024,German BMZ,North Africa,Health,2841506,2301453,81.0,2063547,Development,Active
+2024,German BMZ,North Africa,Livelihoods,603637,442644,73.3,348733,Emergency,Closed
+2024,German BMZ,North Africa,Food Security,2016493,1557809,77.3,1282146,Emergency,Pipeline
+2024,German BMZ,North Africa,Health,2959796,1442159,48.7,1307864,Development,Active
+2024,German BMZ,West Africa,WASH,572223,273379,47.8,207002,Preparedness,Active
+2024,German BMZ,Central Africa,Livelihoods,2531761,2254835,89.1,2024921,Development,Active
+2024,German BMZ,Central Africa,Migration,2462360,1917180,77.9,1582557,Emergency,Pipeline
+2024,German BMZ,Central Africa,Food Security,742965,473839,63.8,429809,Emergency,Closed
+2024,German BMZ,Central Africa,Disaster Risk Reduction,2943818,2484592,84.4,2119516,Emergency,Active
+2024,German BMZ,East Africa,Migration,1913984,1878693,98.2,1853725,Development,Active
+2024,German BMZ,East Africa,Health,155654,100779,64.7,95356,Preparedness,Active
+2024,German BMZ,East Africa,Livelihoods,1277856,927673,72.6,791793,Preparedness,Closed
+2024,German BMZ,East Africa,Livelihoods,950179,411407,43.3,358826,Emergency,Pipeline
+2024,Gates Foundation,Southern Africa,Food Security,888821,835799,94.0,780670,Preparedness,Closed
+2024,Gates Foundation,Southern Africa,Health,108172,94303,87.2,70536,Preparedness,Closed
+2024,Gates Foundation,Southern Africa,Migration,2444382,1503465,61.5,1157610,Emergency,Pipeline
+2024,Gates Foundation,North Africa,Protection,1301739,767439,59.0,670635,Emergency,Pipeline
+2024,Gates Foundation,West Africa,Migration,2013682,1246207,61.9,1081969,Preparedness,Active
+2024,Gates Foundation,West Africa,Protection,1665597,1104458,66.3,868087,Preparedness,Pipeline
+2024,Gates Foundation,West Africa,Shelter,2368141,1082813,45.7,1047678,Development,Pipeline
+2024,Gates Foundation,Central Africa,Shelter,1807088,735166,40.7,514981,Preparedness,Closed
+2024,Gates Foundation,Central Africa,Migration,1660742,1488155,89.6,1486731,Development,Closed
+2024,Gates Foundation,Central Africa,Migration,719218,601454,83.6,423774,Preparedness,Pipeline
+2024,Gates Foundation,East Africa,Disaster Risk Reduction,1611328,863694,53.6,856393,Emergency,Pipeline
+2024,Gates Foundation,East Africa,Shelter,1161999,1028557,88.5,894886,Development,Closed
+2024,Gates Foundation,East Africa,Migration,2807272,1521868,54.2,1071868,Development,Pipeline
+2024,Gates Foundation,East Africa,Shelter,2953543,1218386,41.3,1076559,Emergency,Closed
+2024,OCHA,Southern Africa,Shelter,2721703,1124333,41.3,1122184,Preparedness,Closed
+2024,OCHA,Southern Africa,Shelter,2365809,1206634,51.0,1101913,Preparedness,Active
+2024,OCHA,Southern Africa,Disaster Risk Reduction,963241,474912,49.3,409387,Emergency,Closed
+2024,OCHA,Southern Africa,Health,569258,255236,44.8,237378,Preparedness,Active
+2024,OCHA,Southern Africa,Health,2513673,1887649,75.1,1370150,Development,Pipeline
+2024,OCHA,North Africa,Protection,1051194,955694,90.9,825821,Development,Active
+2024,OCHA,North Africa,Protection,1465192,1396262,95.3,1361337,Preparedness,Closed
+2024,OCHA,West Africa,Disaster Risk Reduction,2855204,2719024,95.2,1966766,Emergency,Pipeline
+2024,OCHA,West Africa,Disaster Risk Reduction,1572764,743248,47.3,740507,Preparedness,Active
+2024,OCHA,West Africa,Migration,1047135,725204,69.3,559469,Emergency,Pipeline
+2024,OCHA,West Africa,Health,889918,766930,86.2,597657,Preparedness,Active
+2024,OCHA,West Africa,Shelter,2177031,1820715,83.6,1731838,Emergency,Pipeline
+2024,OCHA,Central Africa,Disaster Risk Reduction,1114322,970081,87.1,758812,Development,Active
+2024,OCHA,Central Africa,WASH,2373173,1521135,64.1,1253378,Emergency,Active
+2024,OCHA,Central Africa,Health,168031,116741,69.5,87581,Development,Active
+2024,OCHA,East Africa,WASH,878941,590193,67.1,503573,Emergency,Closed
+2024,OCHA,East Africa,WASH,1998339,1436856,71.9,1359223,Development,Closed
+2024,Japan MOFA,Southern Africa,Livelihoods,144327,102530,71.0,78869,Development,Closed
+2024,Japan MOFA,Southern Africa,Food Security,1672511,1334458,79.8,1253315,Development,Closed
+2024,Japan MOFA,Southern Africa,Migration,2697355,1595817,59.2,1426009,Preparedness,Pipeline
+2024,Japan MOFA,Southern Africa,Health,2588632,1263673,48.8,1014196,Preparedness,Closed
+2024,Japan MOFA,North Africa,Protection,2197130,2077461,94.6,2022185,Development,Active
+2024,Japan MOFA,West Africa,Disaster Risk Reduction,2086411,1554782,74.5,1415948,Preparedness,Active
+2024,Japan MOFA,West Africa,Protection,1872939,1708886,91.2,1687638,Preparedness,Closed
+2024,Japan MOFA,West Africa,Disaster Risk Reduction,214622,148933,69.4,129344,Emergency,Closed
+2024,Japan MOFA,Central Africa,Livelihoods,2091756,1358354,64.9,980181,Preparedness,Active
+2024,Japan MOFA,East Africa,WASH,1129238,738162,65.4,691797,Development,Closed
+2024,Canada GAC,Southern Africa,Migration,1112415,982186,88.3,950474,Emergency,Closed
+2024,Canada GAC,Southern Africa,Migration,1399452,602995,43.1,517458,Emergency,Pipeline
+2024,Canada GAC,Southern Africa,WASH,1822210,846333,46.4,643402,Emergency,Pipeline
+2024,Canada GAC,North Africa,Health,2589021,2434016,94.0,2066570,Preparedness,Closed
+2024,Canada GAC,North Africa,Shelter,389824,333349,85.5,239783,Development,Closed
+2024,Canada GAC,West Africa,Health,1728136,1123454,65.0,1013661,Development,Pipeline
+2024,Canada GAC,West Africa,Migration,593537,284923,48.0,227296,Emergency,Closed
+2024,Canada GAC,West Africa,Shelter,1330564,583756,43.9,522696,Emergency,Closed
+2024,Canada GAC,West Africa,Protection,2621281,2575499,98.3,2441866,Development,Active
+2024,Canada GAC,West Africa,Shelter,2980678,2935293,98.5,2799335,Emergency,Active
+2024,Canada GAC,Central Africa,Food Security,2139469,1953586,91.3,1705780,Emergency,Closed
+2024,Canada GAC,Central Africa,Shelter,2842535,2020904,71.1,1660933,Development,Active
+2024,Canada GAC,Central Africa,Shelter,1367840,1218549,89.1,919542,Emergency,Closed
+2024,Canada GAC,Central Africa,Migration,2964848,1285958,43.4,1265856,Emergency,Pipeline
+2024,Canada GAC,East Africa,WASH,586914,236096,40.2,234454,Emergency,Active
+2024,Canada GAC,East Africa,Health,653643,547303,83.7,437048,Development,Closed
+2024,Canada GAC,East Africa,Disaster Risk Reduction,1637949,1340975,81.9,1267708,Emergency,Pipeline
+2024,Canada GAC,East Africa,Protection,2302744,1260101,54.7,1173492,Preparedness,Pipeline
+2025,ECHO,Southern Africa,Migration,1855838,1638003,88.3,1269135,Emergency,Closed
+2025,ECHO,North Africa,Disaster Risk Reduction,2437408,1036278,42.5,788852,Emergency,Active
+2025,ECHO,North Africa,Livelihoods,465923,242460,52.0,174467,Preparedness,Closed
+2025,ECHO,North Africa,Disaster Risk Reduction,2090723,1747017,83.6,1422059,Preparedness,Active
+2025,ECHO,North Africa,WASH,676831,629880,93.1,488567,Emergency,Active
+2025,ECHO,West Africa,Shelter,2492517,1674820,67.2,1493445,Preparedness,Active
+2025,ECHO,Central Africa,Protection,2867661,2656827,92.6,2277927,Preparedness,Closed
+2025,ECHO,Central Africa,WASH,2104372,1313369,62.4,1260972,Preparedness,Active
+2025,ECHO,Central Africa,Disaster Risk Reduction,2541590,1489747,58.6,1078319,Emergency,Pipeline
+2025,ECHO,Central Africa,Food Security,266747,177926,66.7,166455,Emergency,Active
+2025,ECHO,East Africa,Disaster Risk Reduction,658743,275663,41.8,241416,Emergency,Closed
+2025,ECHO,East Africa,Health,351633,266073,75.7,260369,Emergency,Pipeline
+2025,ECHO,East Africa,Livelihoods,2893033,1654464,57.2,1296522,Preparedness,Pipeline
+2025,USAID,Southern Africa,Shelter,1372317,911616,66.4,735742,Development,Active
+2025,USAID,North Africa,Food Security,995739,838220,84.2,748133,Preparedness,Closed
+2025,USAID,North Africa,Migration,2106032,1801399,85.5,1704146,Emergency,Active
+2025,USAID,North Africa,Disaster Risk Reduction,823173,785133,95.4,651095,Preparedness,Pipeline
+2025,USAID,North Africa,WASH,2729953,2704887,99.1,2068422,Emergency,Pipeline
+2025,USAID,West Africa,Shelter,2238540,1854896,82.9,1595587,Emergency,Closed
+2025,USAID,West Africa,WASH,2253291,2005745,89.0,1690905,Preparedness,Active
+2025,USAID,Central Africa,Disaster Risk Reduction,2729580,2375725,87.0,2325955,Preparedness,Closed
+2025,USAID,Central Africa,Livelihoods,1045153,877276,83.9,818348,Development,Active
+2025,USAID,East Africa,Protection,279972,123273,44.0,93870,Development,Active
+2025,USAID,East Africa,Protection,907846,893849,98.5,811575,Development,Closed
+2025,USAID,East Africa,Food Security,2643579,1947972,73.7,1578038,Preparedness,Active
+2025,USAID,East Africa,Disaster Risk Reduction,2110605,900454,42.7,730035,Preparedness,Pipeline
+2025,DFID,Southern Africa,Livelihoods,1112255,777853,69.9,593842,Development,Active
+2025,DFID,Southern Africa,Health,1915049,964958,50.4,822651,Development,Active
+2025,DFID,North Africa,Shelter,455855,342594,75.2,264474,Preparedness,Active
+2025,DFID,North Africa,Livelihoods,1649883,1241427,75.2,1204311,Development,Closed
+2025,DFID,North Africa,Protection,2048283,1400828,68.4,1340897,Development,Pipeline
+2025,DFID,North Africa,Protection,2638794,2523644,95.6,1836502,Development,Closed
+2025,DFID,North Africa,Migration,2245134,1027119,45.7,865669,Development,Pipeline
+2025,DFID,West Africa,Shelter,2449597,1844207,75.3,1526570,Development,Closed
+2025,DFID,West Africa,Migration,481630,286989,59.6,256079,Development,Pipeline
+2025,DFID,West Africa,WASH,2268445,910211,40.1,901493,Development,Pipeline
+2025,DFID,West Africa,Livelihoods,1224961,660557,53.9,644128,Development,Pipeline
+2025,DFID,West Africa,Food Security,2253850,1048961,46.5,809196,Development,Closed
+2025,DFID,Central Africa,Food Security,2474038,1338267,54.1,1336722,Development,Closed
+2025,DFID,Central Africa,Protection,904662,364361,40.3,324971,Preparedness,Pipeline
+2025,DFID,East Africa,Livelihoods,1268206,1169047,92.2,1054109,Preparedness,Closed
+2025,DFID,East Africa,Food Security,2908860,1796629,61.8,1774158,Preparedness,Active
+2025,DFID,East Africa,Livelihoods,2987074,2796237,93.6,2321398,Emergency,Pipeline
+2025,DFID,East Africa,Protection,2977207,2215033,74.4,2193449,Preparedness,Pipeline
+2025,Swedish SIDA,Southern Africa,Food Security,1446969,1431828,99.0,1195500,Development,Pipeline
+2025,Swedish SIDA,Southern Africa,Shelter,2281510,2072546,90.8,1638542,Emergency,Pipeline
+2025,Swedish SIDA,Southern Africa,Food Security,1322476,824018,62.3,617557,Emergency,Pipeline
+2025,Swedish SIDA,Southern Africa,Protection,2756857,1448758,52.6,1299625,Emergency,Pipeline
+2025,Swedish SIDA,Southern Africa,Protection,2184383,1543198,70.6,1187243,Emergency,Closed
+2025,Swedish SIDA,North Africa,Migration,1235567,792919,64.2,643815,Preparedness,Closed
+2025,Swedish SIDA,North Africa,Livelihoods,713794,708380,99.2,677261,Preparedness,Active
+2025,Swedish SIDA,North Africa,WASH,1159211,733525,63.3,714581,Development,Pipeline
+2025,Swedish SIDA,North Africa,Health,1748701,1058980,60.6,953474,Emergency,Active
+2025,Swedish SIDA,West Africa,Migration,2176413,2132862,98.0,1742727,Preparedness,Pipeline
+2025,Swedish SIDA,West Africa,Disaster Risk Reduction,1262206,1019775,80.8,804375,Emergency,Closed
+2025,Swedish SIDA,West Africa,Disaster Risk Reduction,313880,175706,56.0,153259,Preparedness,Closed
+2025,Swedish SIDA,Central Africa,Migration,553316,546432,98.8,456784,Development,Closed
+2025,Swedish SIDA,Central Africa,WASH,1413412,1360525,96.3,1325572,Emergency,Active
+2025,Swedish SIDA,Central Africa,Protection,615549,339941,55.2,278937,Emergency,Active
+2025,Swedish SIDA,Central Africa,Livelihoods,394775,310285,78.6,265422,Emergency,Pipeline
+2025,Swedish SIDA,Central Africa,Livelihoods,2344886,1072961,45.8,1070932,Emergency,Active
+2025,Swedish SIDA,East Africa,Health,959382,817002,85.2,679180,Preparedness,Pipeline
+2025,Swedish SIDA,East Africa,Health,351154,270705,77.1,196605,Emergency,Closed
+2025,Swedish SIDA,East Africa,Livelihoods,2718755,1895464,69.7,1856132,Development,Closed
+2025,Swedish SIDA,East Africa,Food Security,1109486,1040654,93.8,833786,Emergency,Pipeline
+2025,Norwegian MFA,Southern Africa,Livelihoods,2493341,1792265,71.9,1629554,Preparedness,Closed
+2025,Norwegian MFA,Southern Africa,Shelter,1091375,659196,60.4,474268,Emergency,Pipeline
+2025,Norwegian MFA,Southern Africa,Protection,2549976,1793308,70.3,1578991,Emergency,Active
+2025,Norwegian MFA,Southern Africa,Food Security,1707559,689008,40.4,502061,Preparedness,Pipeline
+2025,Norwegian MFA,Southern Africa,Shelter,173151,90795,52.4,73037,Emergency,Pipeline
+2025,Norwegian MFA,North Africa,Migration,1231326,892256,72.5,703234,Emergency,Active
+2025,Norwegian MFA,North Africa,Disaster Risk Reduction,1132608,640727,56.6,615614,Emergency,Active
+2025,Norwegian MFA,North Africa,Shelter,2027310,987361,48.7,837912,Emergency,Active
+2025,Norwegian MFA,North Africa,WASH,1272185,1236175,97.2,1097110,Emergency,Active
+2025,Norwegian MFA,North Africa,Livelihoods,2915055,2420438,83.0,2007441,Development,Pipeline
+2025,Norwegian MFA,West Africa,Migration,1721951,709373,41.2,634065,Emergency,Active
+2025,Norwegian MFA,West Africa,WASH,520968,405914,77.9,297587,Development,Pipeline
+2025,Norwegian MFA,West Africa,Migration,1962829,1329415,67.7,1295646,Emergency,Pipeline
+2025,Norwegian MFA,West Africa,Disaster Risk Reduction,1712607,895780,52.3,750959,Emergency,Pipeline
+2025,Norwegian MFA,West Africa,Food Security,1239690,838851,67.7,791228,Preparedness,Closed
+2025,Norwegian MFA,Central Africa,Protection,2297544,2055717,89.5,1907255,Development,Active
+2025,Norwegian MFA,Central Africa,Disaster Risk Reduction,2193092,1358121,61.9,980035,Development,Pipeline
+2025,Norwegian MFA,Central Africa,Protection,961801,586400,61.0,530069,Emergency,Pipeline
+2025,Norwegian MFA,Central Africa,Disaster Risk Reduction,424458,348755,82.2,345093,Emergency,Closed
+2025,Norwegian MFA,East Africa,Protection,1014057,681633,67.2,606470,Development,Closed
+2025,Norwegian MFA,East Africa,Food Security,1249833,904272,72.4,673850,Preparedness,Closed
+2025,German BMZ,Southern Africa,Migration,1691503,1144676,67.7,988371,Emergency,Pipeline
+2025,German BMZ,Southern Africa,Food Security,2462689,2389915,97.0,1935740,Preparedness,Pipeline
+2025,German BMZ,North Africa,Health,1996856,1973012,98.8,1702098,Development,Pipeline
+2025,German BMZ,West Africa,Disaster Risk Reduction,1607938,877100,54.5,664403,Emergency,Closed
+2025,German BMZ,West Africa,Migration,1929940,936053,48.5,782428,Development,Active
+2025,German BMZ,West Africa,Livelihoods,1934430,799221,41.3,666161,Development,Active
+2025,German BMZ,Central Africa,Livelihoods,1637609,1626215,99.3,1465272,Development,Active
+2025,German BMZ,Central Africa,Food Security,806914,690614,85.6,508086,Preparedness,Pipeline
+2025,German BMZ,Central Africa,Food Security,2269167,1551793,68.4,1219503,Emergency,Closed
+2025,German BMZ,East Africa,Food Security,301236,282095,93.6,212809,Emergency,Pipeline
+2025,German BMZ,East Africa,WASH,765861,517139,67.5,453228,Preparedness,Pipeline
+2025,German BMZ,East Africa,Health,2418712,1713475,70.8,1626213,Development,Active
+2025,Gates Foundation,Southern Africa,Migration,1170157,630564,53.9,512786,Emergency,Closed
+2025,Gates Foundation,Southern Africa,Disaster Risk Reduction,694056,607472,87.5,521467,Development,Active
+2025,Gates Foundation,Southern Africa,Disaster Risk Reduction,1060867,680302,64.1,482220,Development,Active
+2025,Gates Foundation,Southern Africa,WASH,2283168,1945330,85.2,1929095,Emergency,Active
+2025,Gates Foundation,Southern Africa,Health,2704430,2088285,77.2,1998410,Preparedness,Pipeline
+2025,Gates Foundation,North Africa,Migration,1308978,929538,71.0,715283,Development,Active
+2025,Gates Foundation,North Africa,Health,1090884,445806,40.9,399451,Emergency,Pipeline
+2025,Gates Foundation,West Africa,WASH,382621,266252,69.6,248847,Development,Active
+2025,Gates Foundation,Central Africa,Migration,620669,506968,81.7,505135,Preparedness,Closed
+2025,Gates Foundation,Central Africa,Shelter,850461,600584,70.6,497375,Preparedness,Active
+2025,Gates Foundation,Central Africa,Health,1130316,646590,57.2,545113,Development,Active
+2025,Gates Foundation,Central Africa,Health,1242266,1147509,92.4,817866,Preparedness,Pipeline
+2025,Gates Foundation,Central Africa,Disaster Risk Reduction,338446,333958,98.7,333287,Emergency,Active
+2025,Gates Foundation,East Africa,Shelter,2067409,1568528,75.9,1253980,Emergency,Active
+2025,OCHA,Southern Africa,Livelihoods,1640110,875538,53.4,685500,Development,Active
+2025,OCHA,Southern Africa,Shelter,2008174,863641,43.0,727647,Preparedness,Active
+2025,OCHA,Southern Africa,Shelter,1141088,495682,43.4,453818,Preparedness,Pipeline
+2025,OCHA,Southern Africa,WASH,277308,172806,62.3,131300,Development,Active
+2025,OCHA,Southern Africa,Livelihoods,102404,74438,72.7,73852,Development,Pipeline
+2025,OCHA,North Africa,Disaster Risk Reduction,2941747,2403638,81.7,2037141,Preparedness,Pipeline
+2025,OCHA,North Africa,Migration,1794072,1553932,86.6,1431549,Preparedness,Pipeline
+2025,OCHA,North Africa,Disaster Risk Reduction,1584513,1481585,93.5,1128079,Development,Pipeline
+2025,OCHA,North Africa,Shelter,1809926,1656673,91.5,1309281,Preparedness,Closed
+2025,OCHA,West Africa,Food Security,252742,243794,96.5,191213,Emergency,Pipeline
+2025,OCHA,West Africa,Livelihoods,1641412,1569368,95.6,1552321,Emergency,Pipeline
+2025,OCHA,Central Africa,Disaster Risk Reduction,1704624,830654,48.7,824299,Development,Closed
+2025,OCHA,Central Africa,Protection,200142,90350,45.1,69169,Development,Active
+2025,OCHA,Central Africa,Food Security,167283,111494,66.7,111280,Development,Pipeline
+2025,OCHA,Central Africa,Migration,717276,497171,69.3,430114,Preparedness,Pipeline
+2025,OCHA,East Africa,Livelihoods,2822402,2304928,81.7,2283004,Development,Active
+2025,OCHA,East Africa,Health,696913,606321,87.0,465198,Emergency,Closed
+2025,Japan MOFA,Southern Africa,Disaster Risk Reduction,2141685,1246020,58.2,908708,Development,Pipeline
+2025,Japan MOFA,Southern Africa,Protection,2051209,1613627,78.7,1217033,Emergency,Closed
+2025,Japan MOFA,Southern Africa,Disaster Risk Reduction,646996,358722,55.4,346681,Emergency,Active
+2025,Japan MOFA,North Africa,WASH,2784450,1659680,59.6,1443912,Development,Closed
+2025,Japan MOFA,North Africa,Protection,322798,206119,63.9,148861,Development,Closed
+2025,Japan MOFA,West Africa,Livelihoods,427673,264181,61.8,217268,Development,Pipeline
+2025,Japan MOFA,West Africa,Migration,2413606,2262564,93.7,1804022,Emergency,Closed
+2025,Japan MOFA,West Africa,Protection,384187,241094,62.8,225391,Development,Active
+2025,Japan MOFA,West Africa,Shelter,1401667,1198949,85.5,1126395,Emergency,Active
+2025,Japan MOFA,Central Africa,Livelihoods,2455479,2387370,97.2,2240946,Emergency,Active
+2025,Japan MOFA,Central Africa,Food Security,2237026,1441908,64.5,1364697,Preparedness,Pipeline
+2025,Japan MOFA,East Africa,Migration,201249,141921,70.5,111169,Development,Closed
+2025,Japan MOFA,East Africa,Migration,2670798,1553737,58.2,1191953,Development,Pipeline
+2025,Japan MOFA,East Africa,Livelihoods,1469627,715702,48.7,540603,Development,Active
+2025,Canada GAC,Southern Africa,WASH,2556273,1119409,43.8,1081948,Development,Closed
+2025,Canada GAC,Southern Africa,Health,1917845,1838455,95.9,1610543,Preparedness,Pipeline
+2025,Canada GAC,Southern Africa,WASH,2475446,2238530,90.4,1690250,Emergency,Closed
+2025,Canada GAC,Southern Africa,Migration,1484758,1397163,94.1,1190255,Preparedness,Pipeline
+2025,Canada GAC,Southern Africa,Livelihoods,2764241,1217092,44.0,903561,Emergency,Active
+2025,Canada GAC,North Africa,Disaster Risk Reduction,490865,287345,58.5,204896,Development,Closed
+2025,Canada GAC,North Africa,Health,1023743,599479,58.6,430413,Emergency,Closed
+2025,Canada GAC,West Africa,Food Security,657599,356166,54.2,277703,Development,Pipeline
+2025,Canada GAC,Central Africa,Shelter,1851495,1845239,99.7,1422059,Development,Pipeline
+2025,Canada GAC,Central Africa,Livelihoods,2483148,1349620,54.4,1222805,Emergency,Active
+2025,Canada GAC,East Africa,Health,785313,719043,91.6,586823,Development,Pipeline
